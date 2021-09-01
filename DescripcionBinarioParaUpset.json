@@ -1,0 +1,13 @@
+{
+	"file": "https://drive.google.com/file/d/1tKFr902gIATJq4ZkynKOkKfO2zmBzqnT/view?usp=sharing"
+	"name": "Ortholog groups from DE gene lists",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{"type":"id","index":0,"name":"Orthogroup"}
+	],
+	"sets": [
+		{"format": "binary", "start": 1, "end": 8}
+	]
+}
