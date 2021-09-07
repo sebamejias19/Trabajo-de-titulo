@@ -1,13 +1,13 @@
 {
-	"file": "https://raw.githubusercontent.com/sebamejias19/Trabajo-de-titulo/main/UpSetFiles_1.5/BinarioParaUpset.csv",
-	"name": "Ortholog groups from DE gene lists",
+	"file": "...",
+	"name": "DE genes",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{"type":"id","index":0,"name":"Orthogroup"}
+		{"type":"id","index":0,"name":"Gene"}
 	],
 	"sets": [
-		{"format": "binary", "start": 1, "end": 8}
+		{"format": "binary", "start": 1, "end": 4}
 	]
 }
