@@ -1,0 +1,13 @@
+{
+	"file": "...",
+	"name": "Ortholog groups from DE gene lists",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{"type":"id","index":0,"name":"Orthogroup"}
+	],
+	"sets": [
+		{"format": "binary", "start": 1, "end": 8}
+	]
+}
