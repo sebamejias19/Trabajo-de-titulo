@@ -1,8 +1,8 @@
 {
-	"file": "...",
+	"file": "https://raw.githubusercontent.com/sebamejias19/Trabajo-de-titulo/main/UpSetTermsFDR/Terms_UpSetFile.txt",
 	"name": "Terminos funcionales en cada lista de genes DE",
 	"header": 0,
-	"separator": ";",
+	"separator": "\t",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "term_id" },
