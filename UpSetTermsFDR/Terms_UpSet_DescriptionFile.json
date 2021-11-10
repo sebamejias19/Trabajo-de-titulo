@@ -5,8 +5,8 @@
 	"separator": ";",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "term_id" },
-		{ "type": "string", "index": 1, "name": "term_name" },
+		{ "type": "id", "index": 0, "name": "term_id"},
+		{ "type": "string", "index": 1, "name": "term_name"},
 		{ "type": "string", "index": 2, "name": "term_source"},
 		{ "type": "float", "index": 17, "name": "Mean_adj_pvalue"}
 		{ "type": "float", "index": 18, "name": "He_down_adj_pvalue"},
