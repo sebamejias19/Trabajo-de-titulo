@@ -1,0 +1,31 @@
+{
+	"file": "...",
+	"name": "Terminos funcionales en cada lista de genes DE",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "term_id" },
+		{ "type": "string", "index": 1, "name": "term_name" },
+		{ "type": "string", "index": 2, "name": "term_source"},
+		{ "type": "float", "index": 17, "name": "Mean_adj_pvalue"},
+		{ "type": "float", "index": 18, "name": "He_down_adj_pvalue"},
+		{ "type": "float", "index": 19, "name": "He_up_adj_pvalue"},
+		{ "type": "float", "index": 20, "name": "Lind_down_adj_pvalue"},
+		{ "type": "float", "index": 21, "name": "Lind_up_adj_pvalue"},
+		{ "type": "float", "index": 22, "name": "Car_down_adj_pvalue"},
+		{ "type": "float", "index": 23, "name": "Car_up_adj_pvalue"},
+		{ "type": "float", "index": 24, "name": "Bai_F_abd_down_adj_pvalue"},
+		{ "type": "float", "index": 25, "name": "Bai_F_abd_up_adj_pvalue"},
+		{ "type": "float", "index": 26, "name": "Bai_F_head_down_adj_pvalue"},
+		{ "type": "float", "index": 27, "name": "Bai_F_head_up_adj_pvalue"},
+		{ "type": "float", "index": 28, "name": "Bai_M_abd_down_adj_pvalue"},
+		{ "type": "float", "index": 29, "name": "Bai_M_abd_up_adj_pvalue"},
+		{ "type": "float", "index": 30, "name": "Bai_M_head_down_adj_pvalue"},
+		{ "type": "float", "index": 31, "name": "Bai_M_head_up_adj_pvalue"}
+		
+	],
+	"sets": [
+		{ "format": "binary", "start": 3, "end": 16 }
+	]
+}
