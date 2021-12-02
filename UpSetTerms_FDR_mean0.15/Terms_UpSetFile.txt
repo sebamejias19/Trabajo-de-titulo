@@ -1,0 +1,1089 @@
+term_id	term_name	term_source	He_down	He_up	Lind_down	Lind_up	Car_down	Car_up	Bai_F_abd_down	Bai_F_abd_up	Bai_F_head_down	Bai_F_head_up	Bai_M_abd_down	Bai_M_abd_up	Bai_M_head_down	Bai_M_head_up	Mean_adj_pvalue	He_down_adj_pvalue	He_up_adj_pvalue	Lind_down_adj_pvalue	Lind_up_adj_pvalue	Car_down_adj_pvalue	Car_up_adj_pvalue	Bai_F_abd_down_adj_pvalue	Bai_F_abd_up_adj_pvalue	Bai_F_head_down_adj_pvalue	Bai_F_head_up_adj_pvalue	Bai_M_abd_down_adj_pvalue	Bai_M_abd_up_adj_pvalue	Bai_M_head_down_adj_pvalue	Bai_M_head_up_adj_pvalue
+GO:0004591	oxoglutarate dehydrogenase (succinyl-transferring) activity	GO:MF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.077302	0.077302	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0005509	calcium ion binding	GO:MF	1	0	0	0	0	0	0	1	0	0	0	1	0	0	0.027532915	0.077302	1	1	1	1	1	1	1.35566E-05	1	1	1	0.005283188	1	1
+GO:0030506	ankyrin binding	GO:MF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.077302	0.077302	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0008381	mechanosensitive ion channel activity	GO:MF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.089986497	0.089986497	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0016624	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor"	GO:MF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.089986497	0.089986497	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0030976	thiamine pyrophosphate binding	GO:MF	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.089986497	0.089986497	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0043169	cation binding	GO:MF	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0.078447909	0.119518179	1	1	1	1	1	1	1	0.037377639	1	1	1	1	1
+KEGG:00310	Lysine degradation	KEGG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.021452651	0.021452651	1	1	1	1	1	1	1	1	1	1	1	1	1
+KEGG:00380	Tryptophan metabolism	KEGG	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.021452651	0.021452651	1	1	1	1	1	1	1	1	1	1	1	1	1
+HP:0410309	Alpha-aminoadipic aciduria	HP	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0.149881316	0.149881316	1	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0016722	"oxidoreductase activity, acting on metal ions"	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.029996352	1	0.029996352	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0008447	L-ascorbate oxidase activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.09354537	1	0.09354537	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0016175	superoxide-generating NAD(P)H oxidase activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.124393391	1	0.124393391	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0015293	symporter activity	GO:MF	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0.084089449	1	0.124393391	1	0.043785508	1	1	1	1	1	1	1	1	1	1
+GO:0050664	"oxidoreductase activity, acting on NAD(P)H, oxygen as acceptor"	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.124393391	1	0.124393391	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0000293	ferric-chelate reductase activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.124393391	1	0.124393391	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0016682	"oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor"	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.1331597	1	0.1331597	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0022857	transmembrane transporter activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.142636352	1	0.142636352	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0005215	transporter activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.142636352	1	0.142636352	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0004322	ferroxidase activity	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.142636352	1	0.142636352	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0016724	"oxidoreductase activity, acting on metal ions, oxygen as acceptor"	GO:MF	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.142636352	1	0.142636352	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0009415	response to water	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.057805586	1	0.057805586	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0055072	iron ion homeostasis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.088619366	1	0.088619366	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006826	iron ion transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.088619366	1	0.088619366	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006812	cation transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.088619366	1	0.088619366	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0001101	response to acid chemical	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.088619366	1	0.088619366	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0051597	response to methylmercury	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0106024	negative regulation of pupariation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:1902064	regulation of transcription from RNA polymerase II promoter involved in spermatogenesis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0045987	positive regulation of smooth muscle contraction	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0045933	positive regulation of muscle contraction	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0043950	positive regulation of cAMP-mediated signaling	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0035260	internal genitalia morphogenesis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0033215	reductive iron assimilation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0048581	negative regulation of post-embryonic development	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0042554	superoxide anion generation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0000041	transition metal ion transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.099654232	1	0.099654232	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0055076	transition metal ion homeostasis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.107158416	1	0.107158416	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0106023	regulation of pupariation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.108625492	1	0.108625492	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006811	ion transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.108625492	1	0.108625492	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0046689	response to mercury ion	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.108625492	1	0.108625492	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0009270	response to humidity	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.108625492	1	0.108625492	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0033212	iron import into cell	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.108625492	1	0.108625492	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0071478	cellular response to radiation	GO:BP	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0.056859568	1	0.113705813	1	1	1.33227E-05	1	1	1	1	1	1	1	1	1
+GO:0098729	germline stem cell symmetric division	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.113705813	1	0.113705813	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0048807	female genitalia morphogenesis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.113705813	1	0.113705813	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0048804	imaginal disc-derived female genitalia morphogenesis	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.113705813	1	0.113705813	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0098730	male germline stem cell symmetric division	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.113705813	1	0.113705813	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006940	regulation of smooth muscle contraction	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.113705813	1	0.113705813	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0104004	cellular response to environmental stimulus	GO:BP	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0.060262283	1	0.120499259	1	1	2.53069E-05	1	1	1	1	1	1	1	1	1
+GO:0048580	regulation of post-embryonic development	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.120499259	1	0.120499259	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0071214	cellular response to abiotic stimulus	GO:BP	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0.060262283	1	0.120499259	1	1	2.53069E-05	1	1	1	1	1	1	1	1	1
+GO:0098724	symmetric stem cell division	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.120499259	1	0.120499259	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0009414	response to water deprivation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.120499259	1	0.120499259	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0010035	response to inorganic substance	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0098725	symmetric cell division	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0009083	branched-chain amino acid catabolic process	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0019932	second-messenger-mediated signaling	GO:BP	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0.111131601	1	0.126319123	1	1	0.095944079	1	1	1	1	1	1	1	1	1
+GO:0009081	branched-chain amino acid metabolic process	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0007486	imaginal disc-derived female genitalia development	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0043949	regulation of cAMP-mediated signaling	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006939	smooth muscle contraction	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0071260	cellular response to mechanical stimulus	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0050850	positive regulation of calcium-mediated signaling	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0003401	axis elongation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.126319123	1	0.126319123	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0055085	transmembrane transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.131945278	1	0.131945278	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0030728	ovulation	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.135040394	1	0.135040394	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0030540	female genitalia development	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.135040394	1	0.135040394	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0006814	sodium ion transport	GO:BP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.14735968	1	0.14735968	1	1	1	1	1	1	1	1	1	1	1	1
+KEGG:04350	TGF-beta signaling pathway	KEGG	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.097568202	1	0.097568202	1	1	1	1	1	1	1	1	1	1	1	1
+KEGG:04341	Hedgehog signaling pathway - fly	KEGG	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.097568202	1	0.097568202	1	1	1	1	1	1	1	1	1	1	1	1
+KEGG:00280	"Valine, leucine and isoleucine degradation"	KEGG	0	1	0	0	0	0	0	0	1	0	0	0	0	0	0.050577611	1	0.097568202	1	1	1	1	1	1	0.00358702	1	1	1	1	1
+KEGG:00640	Propanoate metabolism	KEGG	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.097568202	1	0.097568202	1	1	1	1	1	1	1	1	1	1	1	1
+HP:0001254	Lethargy	HP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.033900385	1	0.033900385	1	1	1	1	1	1	1	1	1	1	1	1
+HP:0011014	Abnormal glucose homeostasis	HP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.042223483	1	0.042223483	1	1	1	1	1	1	1	1	1	1	1	1
+HP:0002013	Vomiting	HP	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0.065698322	1	0.042223483	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0004372	Reduced consciousness/confusion	HP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.072177605	1	0.072177605	1	1	1	1	1	1	1	1	1	1	1	1
+HP:0002017	Nausea and vomiting	HP	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0.122471413	1	0.122471413	1	1	1	1	1	1	1	1	1	1	1	1
+GO:0003723	RNA binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065722608	1	1	0.065722608	1	1	1	1	1	1	1	1	1	1	1
+GO:0140101	"catalytic activity, acting on a tRNA"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065722608	1	1	0.065722608	1	1	1	1	1	1	1	1	1	1	1
+GO:0016829	lyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065722608	1	1	0.065722608	1	1	1	1	1	1	1	1	1	1	1
+GO:0016830	carbon-carbon lyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065722608	1	1	0.065722608	1	1	1	1	1	1	1	1	1	1	1
+GO:0016831	carboxy-lyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065722608	1	1	0.065722608	1	1	1	1	1	1	1	1	1	1	1
+GO:0070404	NADH binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0070402	NADPH binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0047150	betaine-homocysteine S-methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0050660	flavin adenine dinucleotide binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0140098	"catalytic activity, acting on RNA"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0016875	"ligase activity, forming carbon-oxygen bonds"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0018833	DDT-dehydrochlorinase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0019843	rRNA binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0051748	UTP-monosaccharide-1-phosphate uridylyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0050661	NADP binding	GO:MF	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0.100228958	1	1	0.072497661	1	0.127960254	1	1	1	1	1	1	1	1	1
+GO:0016848	carbon-halide lyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0110152	RNA NAD-cap (NAD-forming) hydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0070611	histone methyltransferase activity (H3-R2 specific)	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004590	orotidine-5'-phosphate decarboxylase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004518	nuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0070626	(S)-2-(5-amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido)succinate AMP-lyase (fumarate-forming) activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0003983	UTP:glucose-1-phosphate uridylyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004853	uroporphyrinogen decarboxylase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004018	"N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004519	endonuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004812	aminoacyl-tRNA ligase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004588	orotate phosphoribosyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004155	"6,7-dihydropteridine reductase activity"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0003976	UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosaminephosphotransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0004531	deoxyribonuclease II activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0015349	thyroid hormone transmembrane transporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.072497661	1	1	0.072497661	1	1	1	1	1	1	1	1	1	1	1
+GO:0008757	S-adenosylmethionine-dependent methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.079092422	1	1	0.079092422	1	1	1	1	1	1	1	1	1	1	1
+GO:0008898	S-adenosylmethionine-homocysteine S-methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0015173	aromatic amino acid transmembrane transporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0016034	maleylacetoacetate isomerase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0004831	tyrosine-tRNA ligase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0004816	asparagine-tRNA ligase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0004586	ornithine decarboxylase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0071949	FAD binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0034353	RNA pyrophosphohydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0003884	D-amino-acid oxidase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110063921	1	1	0.110063921	1	1	1	1	1	1	1	1	1	1	1
+GO:0004540	ribonuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0004534	5'-3' exoribonuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0008096	juvenile hormone epoxide hydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0004085	butyryl-CoA dehydrogenase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0004001	adenosine kinase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0003958	NADPH-hemoprotein reductase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0003948	N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0009019	tRNA (guanine-N1-)-methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0004828	serine-tRNA ligase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0008168	methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0008374	O-acyltransferase activity	GO:MF	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0.09693423	1	1	0.121200073	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0033961	cis-stilbene-oxide hydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0052890	"oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0034046	poly(G) binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0052720	class II DNA-(apurinic or apyrimidinic site) endonuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121200073	1	1	0.121200073	1	1	1	1	1	1	1	1	1	1	1
+GO:0016741	"transferase activity, transferring one-carbon groups"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.121769602	1	1	0.121769602	1	1	1	1	1	1	1	1	1	1	1
+GO:0016893	"endonuclease activity, active with either ribo- or deoxyribonucleic acids and producing 5'-phosphomonoesters"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124770914	1	1	0.124770914	1	1	1	1	1	1	1	1	1	1	1
+GO:0004520	endodeoxyribonuclease activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.129980765	1	1	0.129980765	1	1	1	1	1	1	1	1	1	1	1
+GO:0001640	adenylate cyclase inhibiting G protein-coupled glutamate receptor activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0008172	S-methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0098988	G protein-coupled glutamate receptor activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0042054	histone methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0003913	DNA photolyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0015108	chloride transmembrane transporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0008469	histone-arginine N-methyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0001965	G-protein alpha-subunit binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0017128	phospholipid scramblase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.131102974	1	1	0.131102974	1	1	1	1	1	1	1	1	1	1	1
+GO:0070180	large ribosomal subunit rRNA binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0103073	anandamide amidohydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0000049	tRNA binding	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0051139	metal ion:proton antiporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0004364	glutathione transferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0047555	"3',5'-cyclic-GMP phosphodiesterase activity"	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0043225	ATPase-coupled inorganic anion transmembrane transporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0070569	uridylyltransferase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0015385	sodium:proton antiporter activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0009378	four-way junction helicase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0004301	epoxide hydrolase activity	GO:MF	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.141101489	1	1	0.141101489	1	1	1	1	1	1	1	1	1	1	1
+GO:0034660	ncRNA metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.002659655	1	1	0.002659655	1	1	1	1	1	1	1	1	1	1	1
+GO:0006520	cellular amino acid metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.007104892	1	1	0.021302007	1	1	1	1	1	9.56E-07	1	1	1	1.17132E-05	1
+GO:0000959	mitochondrial RNA metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.022721162	1	1	0.022721162	1	1	1	1	1	1	1	1	1	1	1
+GO:0090305	nucleic acid phosphodiester bond hydrolysis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0042254	ribosome biogenesis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0034470	ncRNA processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0140053	mitochondrial gene expression	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:1901861	regulation of muscle tissue development	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0016202	regulation of striated muscle tissue development	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0070127	tRNA aminoacylation for mitochondrial protein translation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.059862803	1	1	0.059862803	1	1	1	1	1	1	1	1	1	1	1
+GO:0044281	small molecule metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.020185632	1	1	0.060556896	1	1	1	1	1	4.81E-16	1	1	1	6.25E-13	1
+GO:0009156	ribonucleoside monophosphate biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0.051476955	1	1	0.061397594	1	1	1	1	1	0.041556315	1	1	1	1	1
+GO:0009124	nucleoside monophosphate biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:0006558	L-phenylalanine metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:0006167	AMP biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:0006559	L-phenylalanine catabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:1902221	erythrose 4-phosphate/phosphoenolpyruvate family amino acid metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:1902222	erythrose 4-phosphate/phosphoenolpyruvate family amino acid catabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.061397594	1	1	0.061397594	1	1	1	1	1	1	1	1	1	1	1
+GO:1901605	alpha-amino acid metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.020465926	1	1	0.061397594	1	1	1	1	1	1.45E-09	1	1	1	1.83E-07	1
+GO:0006364	rRNA processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.065470033	1	1	0.065470033	1	1	1	1	1	1	1	1	1	1	1
+GO:0009631	cold acclimation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.069583855	1	1	0.069583855	1	1	1	1	1	1	1	1	1	1	1
+GO:0042274	ribosomal small subunit biogenesis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.069583855	1	1	0.069583855	1	1	1	1	1	1	1	1	1	1	1
+GO:0016072	rRNA metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.069876197	1	1	0.069876197	1	1	1	1	1	1	1	1	1	1	1
+GO:0090646	mitochondrial tRNA processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.087597351	1	1	0.087597351	1	1	1	1	1	1	1	1	1	1	1
+GO:0009161	ribonucleoside monophosphate metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0.047776858	1	1	0.087597351	1	1	1	1	1	0.007956365	1	1	1	1	1
+GO:1901566	organonitrogen compound biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.087597351	1	1	0.087597351	1	1	1	1	1	1	1	1	1	1	1
+GO:0009074	aromatic amino acid family catabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.093800413	1	1	0.093800413	1	1	1	1	1	1	1	1	1	1	1
+GO:0035825	homologous recombination	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.093800413	1	1	0.093800413	1	1	1	1	1	1	1	1	1	1	1
+GO:0019752	carboxylic acid metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.031266805	1	1	0.093800413	1	1	1	1	1	5.60E-14	1	1	1	7.74E-10	1
+GO:0043436	oxoacid metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.031266805	1	1	0.093800413	1	1	1	1	1	6.74E-14	1	1	1	9.23E-10	1
+GO:0006011	UDP-glucose metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.093800413	1	1	0.093800413	1	1	1	1	1	1	1	1	1	1	1
+GO:0006418	tRNA aminoacylation for protein translation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.094073375	1	1	0.094073375	1	1	1	1	1	1	1	1	1	1	1
+GO:0006082	organic acid metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.032542702	1	1	0.097628106	1	1	1	1	1	1.03E-14	1	1	1	1.55E-09	1
+GO:0007129	homologous chromosome pairing at meiosis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.097628106	1	1	0.097628106	1	1	1	1	1	1	1	1	1	1	1
+GO:0022613	ribonucleoprotein complex biogenesis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.097628106	1	1	0.097628106	1	1	1	1	1	1	1	1	1	1	1
+GO:0043039	tRNA aminoacylation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.097628106	1	1	0.097628106	1	1	1	1	1	1	1	1	1	1	1
+GO:0043038	amino acid activation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.099642771	1	1	0.099642771	1	1	1	1	1	1	1	1	1	1	1
+GO:0048634	regulation of muscle organ development	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.102000398	1	1	0.102000398	1	1	1	1	1	1	1	1	1	1	1
+GO:0046033	AMP metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.102000398	1	1	0.102000398	1	1	1	1	1	1	1	1	1	1	1
+GO:0006399	tRNA metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.109369049	1	1	0.109369049	1	1	1	1	1	1	1	1	1	1	1
+GO:0009123	nucleoside monophosphate metabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0.069337555	1	1	0.1106286	1	1	1	1	1	0.02804651	1	1	1	1	1
+GO:0000963	mitochondrial RNA processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.110856033	1	1	0.110856033	1	1	1	1	1	1	1	1	1	1	1
+GO:0030490	maturation of SSU-rRNA	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.119650644	1	1	0.119650644	1	1	1	1	1	1	1	1	1	1	1
+GO:0009168	purine ribonucleoside monophosphate biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0.062214583	1	1	0.119650644	1	1	1	1	1	0.004778522	1	1	1	1	1
+GO:0009127	purine nucleoside monophosphate biosynthetic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	0	0	0.062214583	1	1	0.119650644	1	1	1	1	1	0.004778522	1	1	1	1	1
+GO:1901606	alpha-amino acid catabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.042294002	1	1	0.124323698	1	1	1	1	1	0.002461949	1	1	1	9.6357E-05	1
+GO:0097745	mitochondrial tRNA 5'-end processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0007588	excretion	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0070184	mitochondrial tyrosyl-tRNA aminoacylation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0032240	negative regulation of nucleobase-containing compound transport	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0006518	peptide metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0034970	histone H3-R2 methylation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0016256	N-glycan processing to lysosome	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0014706	striated muscle tissue development	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0070158	mitochondrial seryl-tRNA aminoacylation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0009409	response to cold	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0000964	mitochondrial RNA 5'-end processing	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0070327	thyroid hormone transport	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.124337289	1	1	0.124337289	1	1	1	1	1	1	1	1	1	1	1
+GO:0045143	homologous chromosome segregation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.130136466	1	1	0.130136466	1	1	1	1	1	1	1	1	1	1	1
+GO:0032543	mitochondrial translation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.138448474	1	1	0.138448474	1	1	1	1	1	1	1	1	1	1	1
+GO:0046395	carboxylic acid catabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.046151388	1	1	0.138448474	1	1	1	1	1	9.67E-07	1	1	1	4.72212E-06	1
+GO:0009063	cellular amino acid catabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.048175203	1	1	0.138448474	1	1	1	1	1	0.006056973	1	1	1	2.01617E-05	1
+GO:0090501	RNA phosphodiester bond hydrolysis	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.139903063	1	1	0.139903063	1	1	1	1	1	1	1	1	1	1	1
+GO:0060537	muscle tissue development	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.14272454	1	1	0.14272454	1	1	1	1	1	1	1	1	1	1	1
+GO:0009072	aromatic amino acid family metabolic process	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.14272454	1	1	0.14272454	1	1	1	1	1	1	1	1	1	1	1
+GO:0016054	organic acid catabolic process	GO:BP	0	0	1	0	0	0	0	0	1	0	0	0	1	0	0.047650881	1	1	0.142943992	1	1	1	1	1	1.43686E-06	1	1	1	7.21329E-06	1
+GO:0006412	translation	GO:BP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.144027358	1	1	0.144027358	1	1	1	1	1	1	1	1	1	1	1
+GO:0030678	mitochondrial ribonuclease P complex	GO:CC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.062857246	1	1	0.062857246	1	1	1	1	1	1	1	1	1	1	1
+GO:0099086	synaptonemal structure	GO:CC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.09545904	1	1	0.09545904	1	1	1	1	1	1	1	1	1	1	1
+GO:0000795	synaptonemal complex	GO:CC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.09545904	1	1	0.09545904	1	1	1	1	1	1	1	1	1	1	1
+GO:1990904	ribonucleoprotein complex	GO:CC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.127052846	1	1	0.127052846	1	1	1	1	1	1	1	1	1	1	1
+GO:0030677	ribonuclease P complex	GO:CC	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.127052846	1	1	0.127052846	1	1	1	1	1	1	1	1	1	1	1
+WP:WP269	Heme Biosynthesis	WP	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0.097061391	1	1	0.097061391	1	1	1	1	1	1	1	1	1	1	1
+GO:0015291	secondary active transmembrane transporter activity	GO:MF	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.043384426	1	1	1	0.043384426	1	1	1	1	1	1	1	1	1	1
+GO:0008509	anion transmembrane transporter activity	GO:MF	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.043785508	1	1	1	0.043785508	1	1	1	1	1	1	1	1	1	1
+GO:0022804	active transmembrane transporter activity	GO:MF	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.097672079	1	1	1	0.097672079	1	1	1	1	1	1	1	1	1	1
+TF:M07914_1	Factor: CG10654; motif: TAWTTYRCNNCRCRAAATA; match class: 1	TF	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0.124713533	1	1	1	0.124713533	1	1	1	1	1	1	1	1	1	1
+GO:0008020	G protein-coupled photoreceptor activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4.54669E-05	1	1	1	1	4.54669E-05	1	1	1	1	1	1	1	1	1
+GO:0009881	photoreceptor activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	8.8855E-05	1	1	1	1	8.8855E-05	1	1	1	1	1	1	1	1	1
+GO:0004930	G protein-coupled receptor activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.061123395	1	1	1	1	0.061123395	1	1	1	1	1	1	1	1	1
+GO:0004343	glucosamine 6-phosphate N-acetyltransferase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.061123395	1	1	1	1	0.061123395	1	1	1	1	1	1	1	1	1
+GO:0016787	hydrolase activity	GO:MF	0	0	0	0	1	1	0	0	0	0	1	0	1	0	0.044415001	1	1	1	1	0.06893116	0.072668388	1	1	1	1	0.000197294	1	0.035863162	1
+GO:0010461	light-activated ion channel activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.06893116	1	1	1	1	0.06893116	1	1	1	1	1	1	1	1	1
+GO:0008233	peptidase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0.036346489	1	1	1	1	0.06893116	1	1	1	1	1	0.003761819	1	1	1
+GO:0004888	transmembrane signaling receptor activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.06893116	1	1	1	1	0.06893116	1	1	1	1	1	1	1	1	1
+GO:0004499	"N,N-dimethylaniline monooxygenase activity"	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	1	0	0.059433112	1	1	1	1	0.06893116	1	1	1	1	1	1	1	0.049935064	1
+GO:0004341	gluconolactonase activity	GO:MF	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0.063844871	1	1	1	1	0.06893116	0.072668388	1	1	1	1	1	1	0.049935064	1
+GO:0031682	G-protein gamma-subunit binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.06893116	1	1	1	1	0.06893116	1	1	1	1	1	1	1	1	1
+GO:0060089	molecular transducer activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0070679	"inositol 1,4,5 trisphosphate binding"	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0038023	signaling receptor activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0005520	insulin-like growth factor binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0015279	store-operated calcium channel activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0004185	serine-type carboxypeptidase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07164126	1	1	1	1	0.07164126	1	1	1	1	1	1	1	1	1
+GO:0070008	serine-type exopeptidase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.076848202	1	1	1	1	0.076848202	1	1	1	1	1	1	1	1	1
+GO:0008241	peptidyl-dipeptidase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.076848202	1	1	1	1	0.076848202	1	1	1	1	1	1	1	1	1
+GO:0032794	GTPase activating protein binding	GO:MF	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0.092430685	1	1	1	1	0.081041756	0.103819615	1	1	1	1	1	1	1	1
+GO:0003925	G protein activity	GO:MF	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0.092430685	1	1	1	1	0.081041756	0.103819615	1	1	1	1	1	1	1	1
+GO:0019838	growth factor binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.084486318	1	1	1	1	0.084486318	1	1	1	1	1	1	1	1	1
+GO:0031683	G-protein beta/gamma-subunit complex binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.084486318	1	1	1	1	0.084486318	1	1	1	1	1	1	1	1	1
+GO:0036122	BMP binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.101018654	1	1	1	1	0.101018654	1	1	1	1	1	1	1	1	1
+GO:0008238	exopeptidase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.102477047	1	1	1	1	0.102477047	1	1	1	1	1	1	1	1	1
+GO:0016709	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen"	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.102477047	1	1	1	1	0.102477047	1	1	1	1	1	1	1	1	1
+GO:0019955	cytokine binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.107552201	1	1	1	1	0.107552201	1	1	1	1	1	1	1	1	1
+GO:0004712	protein serine/threonine/tyrosine kinase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.112248824	1	1	1	1	0.112248824	1	1	1	1	1	1	1	1	1
+GO:0043167	ion binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.119840847	1	1	1	1	0.119840847	1	1	1	1	1	1	1	1	1
+GO:0052689	carboxylic ester hydrolase activity	GO:MF	0	0	0	0	1	1	0	0	0	0	0	0	1	0	0.074929925	1	1	1	1	0.127960254	0.093421974	1	1	1	1	1	1	0.003407548	1
+GO:0003824	catalytic activity	GO:MF	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0.103240353	1	1	1	1	0.127960254	0.078520453	1	1	1	1	1	1	1	1
+GO:0036094	small molecule binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.128630973	1	1	1	1	0.128630973	1	1	1	1	1	1	1	1	1
+GO:0003924	GTPase activity	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.128630973	1	1	1	1	0.128630973	1	1	1	1	1	1	1	1	1
+GO:0043178	alcohol binding	GO:MF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.128630973	1	1	1	1	0.128630973	1	1	1	1	1	1	1	1	1
+GO:0009584	detection of visible light	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1.26782E-07	1	1	1	1	1.27E-07	1	1	1	1	1	1	1	1	1
+GO:0009583	detection of light stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4.8266E-07	1	1	1	1	4.83E-07	1	1	1	1	1	1	1	1	1
+GO:0050953	sensory perception of light stimulus	GO:BP	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0.02066931	1	1	1	1	4.83E-07	1	1	1	1	0.041338138	1	1	1	1
+GO:0007601	visual perception	GO:BP	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0.018087051	1	1	1	1	4.83E-07	1	1	1	1	0.036173619	1	1	1	1
+GO:0007602	phototransduction	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4.8266E-07	1	1	1	1	4.83E-07	1	1	1	1	1	1	1	1	1
+GO:0009582	detection of abiotic stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1.15822E-06	1	1	1	1	1.15822E-06	1	1	1	1	1	1	1	1	1
+GO:0009581	detection of external stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1.15822E-06	1	1	1	1	1.15822E-06	1	1	1	1	1	1	1	1	1
+GO:0009416	response to light stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	1.15822E-06	1	1	1	1	1.15822E-06	1	1	1	1	1	1	1	1	1
+GO:0071482	cellular response to light stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3.14574E-06	1	1	1	1	3.14574E-06	1	1	1	1	1	1	1	1	1
+GO:0009314	response to radiation	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	4.32721E-06	1	1	1	1	4.32721E-06	1	1	1	1	1	1	1	1	1
+GO:0007600	sensory perception	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	3.86724E-05	1	1	1	1	3.86724E-05	1	1	1	1	1	1	1	1	1
+GO:0018298	protein-chromophore linkage	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	5.55499E-05	1	1	1	1	5.55499E-05	1	1	1	1	1	1	1	1	1
+GO:0016037	light absorption	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0007202	activation of phospholipase C activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0010517	regulation of phospholipase activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0010518	positive regulation of phospholipase activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0010863	positive regulation of phospholipase C activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0060191	regulation of lipase activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0060193	positive regulation of lipase activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:1900274	regulation of phospholipase C activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000123633	1	1	1	1	0.000123633	1	1	1	1	1	1	1	1	1
+GO:0043052	thermotaxis	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000170165	1	1	1	1	0.000170165	1	1	1	1	1	1	1	1	1
+GO:0050877	nervous system process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000391668	1	1	1	1	0.000391668	1	1	1	1	1	1	1	1	1
+GO:0009628	response to abiotic stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000391668	1	1	1	1	0.000391668	1	1	1	1	1	1	1	1	1
+GO:0051606	detection of stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.0004517	1	1	1	1	0.0004517	1	1	1	1	1	1	1	1	1
+GO:0050954	sensory perception of mechanical stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000516362	1	1	1	1	0.000516362	1	1	1	1	1	1	1	1	1
+GO:0007603	"phototransduction, visible light"	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000762932	1	1	1	1	0.000762932	1	1	1	1	1	1	1	1	1
+GO:0003008	system process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.001009823	1	1	1	1	0.001009823	1	1	1	1	1	1	1	1	1
+GO:0007186	G protein-coupled receptor signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.001943188	1	1	1	1	0.001943188	1	1	1	1	1	1	1	1	1
+GO:0007165	signal transduction	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.005001539	1	1	1	1	0.005001539	1	1	1	1	1	1	1	1	1
+GO:0043153	entrainment of circadian clock by photoperiod	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.005619469	1	1	1	1	0.005619469	1	1	1	1	1	1	1	1	1
+GO:0009648	photoperiodism	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.006438158	1	1	1	1	0.006438158	1	1	1	1	1	1	1	1	1
+GO:0007605	sensory perception of sound	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.007018097	1	1	1	1	0.007018097	1	1	1	1	1	1	1	1	1
+GO:0016059	deactivation of rhodopsin mediated signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.010551286	1	1	1	1	0.010551286	1	1	1	1	1	1	1	1	1
+GO:0022400	regulation of rhodopsin mediated signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.011535583	1	1	1	1	0.011535583	1	1	1	1	1	1	1	1	1
+GO:0023052	signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.01261068	1	1	1	1	0.01261068	1	1	1	1	1	1	1	1	1
+GO:0009649	entrainment of circadian clock	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.01459325	1	1	1	1	0.01459325	1	1	1	1	1	1	1	1	1
+GO:0007154	cell communication	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.01459325	1	1	1	1	0.01459325	1	1	1	1	1	1	1	1	1
+GO:0016056	rhodopsin mediated signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.017111636	1	1	1	1	0.017111636	1	1	1	1	1	1	1	1	1
+GO:0008277	regulation of G protein-coupled receptor signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.026614551	1	1	1	1	0.026614551	1	1	1	1	1	1	1	1	1
+GO:0038056	negative regulation of BMP signaling pathway by negative regulation of BMP secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:0051716	cellular response to stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:0016038	absorption of visible light	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:0016039	absorption of UV light	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:2001285	negative regulation of BMP secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:0035318	imaginal disc-derived wing hair outgrowth	GO:BP	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0.087554612	1	1	1	1	0.030875497	0.144233726	1	1	1	1	1	1	1	1
+GO:0031532	actin cytoskeleton reorganization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.030875497	1	1	1	1	0.030875497	1	1	1	1	1	1	1	1	1
+GO:0009266	response to temperature stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.033113189	1	1	1	1	0.033113189	1	1	1	1	1	1	1	1	1
+GO:0009605	response to external stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.045682142	1	1	1	1	0.045682142	1	1	1	1	1	1	1	1	1
+GO:0009966	regulation of signal transduction	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.046610614	1	1	1	1	0.046610614	1	1	1	1	1	1	1	1	1
+GO:0046847	filopodium assembly	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.046610614	1	1	1	1	0.046610614	1	1	1	1	1	1	1	1	1
+GO:2001284	regulation of BMP secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0038055	BMP secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0009588	"UV-A, blue light phototransduction"	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0019852	L-ascorbic acid metabolic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0071454	cellular response to anoxia	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0046606	negative regulation of centrosome cycle	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0010826	negative regulation of centrosome duplication	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0019853	L-ascorbic acid biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0045200	establishment of neuroblast polarity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:2000251	positive regulation of actin cytoskeleton reorganization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047983416	1	1	1	1	0.047983416	1	1	1	1	1	1	1	1	1
+GO:0042330	taxis	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052268765	1	1	1	1	0.052268765	1	1	1	1	1	1	1	1	1
+GO:0019722	calcium-mediated signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052606684	1	1	1	1	0.052606684	1	1	1	1	1	1	1	1	1
+GO:0051493	regulation of cytoskeleton organization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.058000962	1	1	1	1	0.058000962	1	1	1	1	1	1	1	1	1
+GO:0032488	Cdc42 protein signal transduction	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.066620185	1	1	1	1	0.066620185	1	1	1	1	1	1	1	1	1
+GO:0060158	phospholipase C-activating dopamine receptor signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.066620185	1	1	1	1	0.066620185	1	1	1	1	1	1	1	1	1
+GO:0120031	plasma membrane bounded cell projection assembly	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.073405753	1	1	1	1	0.073405753	1	1	1	1	1	1	1	1	1
+GO:0023051	regulation of signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.076124506	1	1	1	1	0.076124506	1	1	1	1	1	1	1	1	1
+GO:0010646	regulation of cell communication	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.076124506	1	1	1	1	0.076124506	1	1	1	1	1	1	1	1	1
+GO:0051601	exocyst localization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.080460754	1	1	1	1	0.080460754	1	1	1	1	1	1	1	1	1
+GO:0071244	cellular response to carbon dioxide	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.080460754	1	1	1	1	0.080460754	1	1	1	1	1	1	1	1	1
+GO:0030031	cell projection assembly	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.080460754	1	1	1	1	0.080460754	1	1	1	1	1	1	1	1	1
+GO:2000249	regulation of actin cytoskeleton reorganization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.080460754	1	1	1	1	0.080460754	1	1	1	1	1	1	1	1	1
+GO:0009967	positive regulation of signal transduction	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.083168197	1	1	1	1	0.083168197	1	1	1	1	1	1	1	1	1
+GO:0007311	"maternal specification of dorsal/ventral axis, oocyte, germ-line encoded"	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0007589	body fluid secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0007604	"phototransduction, UV"	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0008064	regulation of actin polymerization or depolymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0051764	actin crosslink formation	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0030832	regulation of actin filament length	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0050709	negative regulation of protein secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0048583	regulation of response to stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0016060	metarhodopsin inactivation	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0030833	regulation of actin filament polymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089105004	1	1	1	1	0.089105004	1	1	1	1	1	1	1	1	1
+GO:0030041	actin filament polymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09186332	1	1	1	1	0.09186332	1	1	1	1	1	1	1	1	1
+GO:0006047	UDP-N-acetylglucosamine metabolic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0009589	detection of UV	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0034059	response to anoxia	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0023056	positive regulation of signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0010037	response to carbon dioxide	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0006828	manganese ion transport	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0010647	positive regulation of cell communication	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0007274	neuromuscular synaptic transmission	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0006048	UDP-N-acetylglucosamine biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094112967	1	1	1	1	0.094112967	1	1	1	1	1	1	1	1	1
+GO:0032271	regulation of protein polymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094791485	1	1	1	1	0.094791485	1	1	1	1	1	1	1	1	1
+GO:0008154	actin polymerization or depolymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.097094238	1	1	1	1	0.097094238	1	1	1	1	1	1	1	1	1
+GO:0042364	water-soluble vitamin biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0097206	nephrocyte filtration	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0050908	detection of light stimulus involved in visual perception	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0046903	secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0046673	negative regulation of compound eye retinal cell programmed cell death	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0046671	negative regulation of retinal cell programmed cell death	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0006465	signal peptide processing	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0110053	regulation of actin filament organization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0097205	renal filtration	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.09750703	1	1	1	1	0.09750703	1	1	1	1	1	1	1	1	1
+GO:0042752	regulation of circadian rhythm	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.100129183	1	1	1	1	0.100129183	1	1	1	1	1	1	1	1	1
+GO:1903530	regulation of secretion by cell	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.107626373	1	1	1	1	0.107626373	1	1	1	1	1	1	1	1	1
+GO:0046605	regulation of centrosome cycle	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.107626373	1	1	1	1	0.107626373	1	1	1	1	1	1	1	1	1
+GO:0010824	regulation of centrosome duplication	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.107626373	1	1	1	1	0.107626373	1	1	1	1	1	1	1	1	1
+GO:0007166	cell surface receptor signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.112083416	1	1	1	1	0.112083416	1	1	1	1	1	1	1	1	1
+GO:0051046	regulation of secretion	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.112083416	1	1	1	1	0.112083416	1	1	1	1	1	1	1	1	1
+GO:0016485	protein processing	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.112083416	1	1	1	1	0.112083416	1	1	1	1	1	1	1	1	1
+GO:0043085	positive regulation of catalytic activity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.112083416	1	1	1	1	0.112083416	1	1	1	1	1	1	1	1	1
+GO:0009110	vitamin biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.114040972	1	1	1	1	0.114040972	1	1	1	1	1	1	1	1	1
+GO:0010592	positive regulation of lamellipodium assembly	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.114040972	1	1	1	1	0.114040972	1	1	1	1	1	1	1	1	1
+GO:0048584	positive regulation of response to stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.114040972	1	1	1	1	0.114040972	1	1	1	1	1	1	1	1	1
+GO:0007267	cell-cell signaling	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.115267897	1	1	1	1	0.115267897	1	1	1	1	1	1	1	1	1
+GO:0050962	detection of light stimulus involved in sensory perception	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.122964297	1	1	1	1	0.122964297	1	1	1	1	1	1	1	1	1
+GO:0046349	amino sugar biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.122964297	1	1	1	1	0.122964297	1	1	1	1	1	1	1	1	1
+GO:1902745	positive regulation of lamellipodium organization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.132469477	1	1	1	1	0.132469477	1	1	1	1	1	1	1	1	1
+GO:0051258	protein polymerization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.132469477	1	1	1	1	0.132469477	1	1	1	1	1	1	1	1	1
+GO:0034629	cellular protein-containing complex localization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.132469477	1	1	1	1	0.132469477	1	1	1	1	1	1	1	1	1
+GO:0051224	negative regulation of protein transport	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:0032956	regulation of actin cytoskeleton organization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:1904950	negative regulation of establishment of protein localization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:0002251	organ or tissue specific immune response	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:0007212	dopamine receptor signaling pathway	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:0002385	mucosal immune response	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137162107	1	1	1	1	0.137162107	1	1	1	1	1	1	1	1	1
+GO:0032970	regulation of actin filament-based process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.137833615	1	1	1	1	0.137833615	1	1	1	1	1	1	1	1	1
+GO:1902903	regulation of supramolecular fiber organization	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0050896	response to stimulus	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0050975	sensory perception of touch	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0046364	monosaccharide biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0006767	water-soluble vitamin metabolic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0045196	establishment or maintenance of neuroblast polarity	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0043254	regulation of protein-containing complex assembly	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0009226	nucleotide-sugar biosynthetic process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.138909626	1	1	1	1	0.138909626	1	1	1	1	1	1	1	1	1
+GO:0030322	stabilization of membrane potential	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.147349833	1	1	1	1	0.147349833	1	1	1	1	1	1	1	1	1
+GO:0090303	positive regulation of wound healing	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.147349833	1	1	1	1	0.147349833	1	1	1	1	1	1	1	1	1
+GO:0050794	regulation of cellular process	GO:BP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.149305182	1	1	1	1	0.149305182	1	1	1	1	1	1	1	1	1
+GO:0016028	rhabdomere	GO:CC	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0.000452544	1	1	1	1	1.27E-08	1	1	1	1	0.000905076	1	1	1	1
+GO:0019897	extrinsic component of plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.005883287	1	1	1	1	0.005883287	1	1	1	1	1	1	1	1	1
+GO:0016027	inaD signaling complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.005883287	1	1	1	1	0.005883287	1	1	1	1	1	1	1	1	1
+GO:1905360	GTPase complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.007103353	1	1	1	1	0.007103353	1	1	1	1	1	1	1	1	1
+GO:0005834	heterotrimeric G-protein complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.007103353	1	1	1	1	0.007103353	1	1	1	1	1	1	1	1	1
+GO:0042995	cell projection	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.008371488	1	1	1	1	0.008371488	1	1	1	1	1	1	1	1	1
+GO:0120025	plasma membrane bounded cell projection	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.008371488	1	1	1	1	0.008371488	1	1	1	1	1	1	1	1	1
+GO:0071944	cell periphery	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.010896755	1	1	1	1	0.010896755	1	1	1	1	1	1	1	1	1
+GO:0019898	extrinsic component of membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.010896755	1	1	1	1	0.010896755	1	1	1	1	1	1	1	1	1
+GO:0031234	extrinsic component of cytoplasmic side of plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.015556514	1	1	1	1	0.015556514	1	1	1	1	1	1	1	1	1
+GO:0005886	plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.027729286	1	1	1	1	0.027729286	1	1	1	1	1	1	1	1	1
+GO:0098797	plasma membrane protein complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.037402511	1	1	1	1	0.037402511	1	1	1	1	1	1	1	1	1
+GO:0009898	cytoplasmic side of plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.047018613	1	1	1	1	0.047018613	1	1	1	1	1	1	1	1	1
+GO:0098562	cytoplasmic side of membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.054087857	1	1	1	1	0.054087857	1	1	1	1	1	1	1	1	1
+GO:0016020	membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.054087857	1	1	1	1	0.054087857	1	1	1	1	1	1	1	1	1
+GO:0005787	signal peptidase complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.054087857	1	1	1	1	0.054087857	1	1	1	1	1	1	1	1	1
+GO:0035997	rhabdomere microvillus membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.056812976	1	1	1	1	0.056812976	1	1	1	1	1	1	1	1	1
+GO:0031045	dense core granule	GO:CC	0	0	0	0	1	0	0	0	0	0	0	1	0	0	0.080369223	1	1	1	1	0.056812976	1	1	1	1	1	1	0.103925469	1	1
+GO:0098552	side of membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.061298891	1	1	1	1	0.061298891	1	1	1	1	1	1	1	1	1
+GO:0036038	MKS complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.061298891	1	1	1	1	0.061298891	1	1	1	1	1	1	1	1	1
+GO:0035996	rhabdomere microvillus	GO:CC	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0.033539374	1	1	1	1	0.064951346	1	1	1	1	0.002127401	1	1	1	1
+GO:0005615	extracellular space	GO:CC	0	0	0	0	1	0	0	1	0	0	1	0	1	0	0.026340259	1	1	1	1	0.064951346	1	1	0.040409686	1	1	9.24E-13	1	4.82E-09	1
+GO:0033583	rhabdomere membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.067978737	1	1	1	1	0.067978737	1	1	1	1	1	1	1	1	1
+GO:0031528	microvillus membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.067978737	1	1	1	1	0.067978737	1	1	1	1	1	1	1	1	1
+GO:0005887	integral component of plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.075971073	1	1	1	1	0.075971073	1	1	1	1	1	1	1	1	1
+GO:0031226	intrinsic component of plasma membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.079299731	1	1	1	1	0.079299731	1	1	1	1	1	1	1	1	1
+GO:0098796	membrane protein complex	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.091203945	1	1	1	1	0.091203945	1	1	1	1	1	1	1	1	1
+GO:0005576	extracellular region	GO:CC	0	0	0	0	1	0	0	1	0	0	1	0	1	0	0.023033641	1	1	1	1	0.091203945	1	1	0.00093062	1	1	8.16E-17	1	2.44E-17	1
+GO:0030027	lamellipodium	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.111653597	1	1	1	1	0.111653597	1	1	1	1	1	1	1	1	1
+GO:0110165	cellular anatomical entity	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.118428147	1	1	1	1	0.118428147	1	1	1	1	1	1	1	1	1
+GO:0098595	perivitelline space	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.118428147	1	1	1	1	0.118428147	1	1	1	1	1	1	1	1	1
+GO:0005902	microvillus	GO:CC	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0.06781192	1	1	1	1	0.118428147	1	1	1	1	0.017195693	1	1	1	1
+GO:0016021	integral component of membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.118428147	1	1	1	1	0.118428147	1	1	1	1	1	1	1	1	1
+GO:0035869	ciliary transition zone	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.120841432	1	1	1	1	0.120841432	1	1	1	1	1	1	1	1	1
+GO:0031224	intrinsic component of membrane	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.120841432	1	1	1	1	0.120841432	1	1	1	1	1	1	1	1	1
+GO:0005793	endoplasmic reticulum-Golgi intermediate compartment	GO:CC	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.139326987	1	1	1	1	0.139326987	1	1	1	1	1	1	1	1	1
+KEGG:04745	Phototransduction - fly	KEGG	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.000204513	1	1	1	1	0.000204513	1	1	1	1	1	1	1	1	1
+TF:M02330_1	Factor: bcd; motif: TAATCC; match class: 1	TF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.098345934	1	1	1	1	0.098345934	1	1	1	1	1	1	1	1	1
+TF:M02352_1	Factor: oc; motif: TAATCC; match class: 1	TF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.098345934	1	1	1	1	0.098345934	1	1	1	1	1	1	1	1	1
+TF:M02308_1	Factor: Gsc; motif: TAATCC; match class: 1	TF	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.098345934	1	1	1	1	0.098345934	1	1	1	1	1	1	1	1	1
+HP:0005583	Tubular basement membrane disintegration	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0020131	Abnormal tubular basement membrane morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0000108	Renal corticomedullary cysts	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0005248	Intrahepatic biliary atresia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0100951	Enlarged fossa interpeduncularis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0011931	Abnormality of the cerebellar peduncle	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0008659	Multiple small medullary renal cysts	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0011933	Elongated superior cerebellar peduncle	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0006563	Malformation of the hepatic ductal plate	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0011932	Abnormality of the superior cerebellar peduncle	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0033149	Intrahepatic bile duct dilatation	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0002404	Thickened superior cerebellar peduncle	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.052334125	1	1	1	1	0.052334125	1	1	1	1	1	1	1	1	1
+HP:0009916	Anisocoria	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.056072276	1	1	1	1	0.056072276	1	1	1	1	1	1	1	1	1
+HP:0012501	Abnormality of the brainstem white matter	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.056072276	1	1	1	1	0.056072276	1	1	1	1	1	1	1	1	1
+HP:0005912	Biliary atresia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.073267774	1	1	1	1	0.073267774	1	1	1	1	1	1	1	1	1
+HP:0045008	Abnormal shape of the radius	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07388347	1	1	1	1	0.07388347	1	1	1	1	1	1	1	1	1
+HP:0002986	Radial bowing	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.07388347	1	1	1	1	0.07388347	1	1	1	1	1	1	1	1	1
+HP:0001408	Bile duct proliferation	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.082239339	1	1	1	1	0.082239339	1	1	1	1	1	1	1	1	1
+HP:0100732	Pancreatic fibrosis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.082239339	1	1	1	1	0.082239339	1	1	1	1	1	1	1	1	1
+HP:0000068	Urethral atresia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.082239339	1	1	1	1	0.082239339	1	1	1	1	1	1	1	1	1
+HP:0006870	Lobar holoprosencephaly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.082239339	1	1	1	1	0.082239339	1	1	1	1	1	1	1	1	1
+HP:0002876	Episodic tachypnea	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.088740472	1	1	1	1	0.088740472	1	1	1	1	1	1	1	1	1
+HP:0003956	Bowed forearm bones	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.088740472	1	1	1	1	0.088740472	1	1	1	1	1	1	1	1	1
+HP:0000588	Optic nerve coloboma	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0006488	Bowing of the arm	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0006706	Cystic liver disease	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0005957	Breathing dysregulation	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0010459	True hermaphroditism	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0000092	Renal tubular atrophy	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0000090	Nephronophthisis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0032599	Abnormal renal tubular epithelial morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0002419	Molar tooth sign on MRI	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0001737	Pancreatic cysts	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0100626	Chronic hepatic failure	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0002085	Occipital encephalocele	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.089715642	1	1	1	1	0.089715642	1	1	1	1	1	1	1	1	1
+HP:0010295	Aplasia/Hypoplasia of the tongue	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.091584718	1	1	1	1	0.091584718	1	1	1	1	1	1	1	1	1
+HP:0001747	Accessory spleen	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.093352763	1	1	1	1	0.093352763	1	1	1	1	1	1	1	1	1
+HP:0008245	Pituitary hypothyroidism	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094201424	1	1	1	1	0.094201424	1	1	1	1	1	1	1	1	1
+HP:0002612	Congenital hepatic fibrosis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094201424	1	1	1	1	0.094201424	1	1	1	1	1	1	1	1	1
+HP:0011040	Abnormality of the intrahepatic bile duct	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.094201424	1	1	1	1	0.094201424	1	1	1	1	1	1	1	1	1
+HP:0000567	Chorioretinal coloboma	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.104668249	1	1	1	1	0.104668249	1	1	1	1	1	1	1	1	1
+HP:0100864	Short femoral neck	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.104668249	1	1	1	1	0.104668249	1	1	1	1	1	1	1	1	1
+HP:0009108	Aplasia/Hypoplasia involving the femoral head and neck	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.105805947	1	1	1	1	0.105805947	1	1	1	1	1	1	1	1	1
+HP:0000037	Male pseudohermaphroditism	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.105805947	1	1	1	1	0.105805947	1	1	1	1	1	1	1	1	1
+HP:0001830	Postaxial foot polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.105805947	1	1	1	1	0.105805947	1	1	1	1	1	1	1	1	1
+HP:0100957	Abnormal renal medulla morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.105805947	1	1	1	1	0.105805947	1	1	1	1	1	1	1	1	1
+HP:0000103	Polyuria	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.106895233	1	1	1	1	0.106895233	1	1	1	1	1	1	1	1	1
+HP:0000647	Sclerocornea	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.114480897	1	1	1	1	0.114480897	1	1	1	1	1	1	1	1	1
+HP:0002418	Abnormality of midbrain morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121454666	1	1	1	1	0.121454666	1	1	1	1	1	1	1	1	1
+HP:0001177	Preaxial hand polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121454666	1	1	1	1	0.121454666	1	1	1	1	1	1	1	1	1
+HP:0004422	Biparietal narrowing	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121454666	1	1	1	1	0.121454666	1	1	1	1	1	1	1	1	1
+HP:0000528	Anophthalmia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121454666	1	1	1	1	0.121454666	1	1	1	1	1	1	1	1	1
+HP:0002323	Anencephaly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121454666	1	1	1	1	0.121454666	1	1	1	1	1	1	1	1	1
+HP:0000073	Ureteral duplication	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0045009	Abnormal morphology of the radius	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0010322	Abnormality of the 5th toe	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0011036	Abnormality of renal excretion	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0000221	Furrowed tongue	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0005613	Aplasia/hypoplasia of the femur	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0012590	Abnormal urine output	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0001959	Polydipsia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0030082	Abnormal drinking behavior	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.121550225	1	1	1	1	0.121550225	1	1	1	1	1	1	1	1	1
+HP:0000122	Unilateral renal agenesis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.122112957	1	1	1	1	0.122112957	1	1	1	1	1	1	1	1	1
+HP:0001360	Holoprosencephaly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0100258	Preaxial polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0001409	Portal hypertension	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0002040	Esophageal varix	HP	0	0	0	0	1	0	0	0	0	0	1	0	0	0	0.110346472	1	1	1	1	0.123055915	1	1	1	1	1	0.097637029	1	1	1
+HP:0010451	Aplasia/Hypoplasia of the spleen	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0002084	Encephalocele	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0002684	Thickened calvaria	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0001746	Asplenia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0000615	Abnormal pupil morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0011787	Central hypothyroidism	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0011815	Cephalocele	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.123055915	1	1	1	1	0.123055915	1	1	1	1	1	1	1	1	1
+HP:0040073	Abnormal forearm bone morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.124378504	1	1	1	1	0.124378504	1	1	1	1	1	1	1	1	1
+HP:0006707	Abnormality of the hepatic vasculature	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.124378504	1	1	1	1	0.124378504	1	1	1	1	1	1	1	1	1
+HP:0009103	Aplasia/Hypoplasia involving the pelvis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.124378504	1	1	1	1	0.124378504	1	1	1	1	1	1	1	1	1
+HP:0002789	Tachypnea	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.124796759	1	1	1	1	0.124796759	1	1	1	1	1	1	1	1	1
+HP:0001162	Postaxial hand polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.125204425	1	1	1	1	0.125204425	1	1	1	1	1	1	1	1	1
+HP:0007361	Abnormal pons morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.127564429	1	1	1	1	0.127564429	1	1	1	1	1	1	1	1	1
+HP:0001829	Foot polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.132111753	1	1	1	1	0.132111753	1	1	1	1	1	1	1	1	1
+HP:0000003	Multicystic kidney dysplasia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.132111753	1	1	1	1	0.132111753	1	1	1	1	1	1	1	1	1
+HP:0001696	Situs inversus totalis	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.133542249	1	1	1	1	0.133542249	1	1	1	1	1	1	1	1	1
+HP:0011534	Abnormal spatial orientation of the cardiac segments	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.133542249	1	1	1	1	0.133542249	1	1	1	1	1	1	1	1	1
+HP:0012440	Abnormal biliary tract morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.133542249	1	1	1	1	0.133542249	1	1	1	1	1	1	1	1	1
+HP:0009136	Duplication involving bones of the feet	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.133542249	1	1	1	1	0.133542249	1	1	1	1	1	1	1	1	1
+HP:0009799	Supernumerary spleens	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.133542249	1	1	1	1	0.133542249	1	1	1	1	1	1	1	1	1
+HP:0003774	Stage 5 chronic kidney disease	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.139161195	1	1	1	1	0.139161195	1	1	1	1	1	1	1	1	1
+HP:0001651	Dextrocardia	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0012331	Abnormal autonomic nervous system morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0004362	Abnormality of enteric ganglion morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0100259	Postaxial polydactyly	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0008055	Aplasia/Hypoplasia affecting the uvea	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0008053	Aplasia/Hypoplasia of the iris	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0002251	Aganglionic megacolon	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0025028	Abnormality of enteric nervous system morphology	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0004307	Abnormal anatomic location of the heart	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.142435143	1	1	1	1	0.142435143	1	1	1	1	1	1	1	1	1
+HP:0008062	Aplasia/Hypoplasia affecting the anterior segment of the eye	HP	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0.144185853	1	1	1	1	0.144185853	1	1	1	1	1	1	1	1	1
+GO:0004553	"hydrolase activity, hydrolyzing O-glycosyl compounds"	GO:MF	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0.037590053	1	1	1	1	1	0.066952822	1	1	1	1	0.004352689	1	0.041464648	1
+GO:0016798	"hydrolase activity, acting on glycosyl bonds"	GO:MF	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0.035249473	1	1	1	1	1	0.068322224	1	1	1	1	0.002176721	1	1	1
+GO:0032142	single guanine insertion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032135	DNA insertion or deletion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032137	guanine/thymine mispair binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0008422	beta-glucosidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0008332	low voltage-gated calcium channel activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0008331	high voltage-gated calcium channel activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032138	single base insertion or deletion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032139	dinucleotide insertion or deletion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032143	single thymine insertion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032181	dinucleotide repeat insertion binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0004666	prostaglandin-endoperoxide synthase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0016416	O-palmitoyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0004095	carnitine O-palmitoyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032404	mismatch repair complex binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032405	MutLalpha complex binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0000406	double-strand/single-strand DNA junction binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.072668388	1	1	1	1	1	0.072668388	1	1	1	1	1	1	1	1
+GO:0032357	oxidized purine DNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.091402614	1	1	1	1	1	0.091402614	1	1	1	1	1	1	1	1
+GO:0001872	(1->3)-beta-D-glucan binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.091402614	1	1	1	1	1	0.091402614	1	1	1	1	1	1	1	1
+GO:0032356	oxidized DNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.091402614	1	1	1	1	1	0.091402614	1	1	1	1	1	1	1	1
+GO:0036374	glutathione hydrolase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0046906	tetrapyrrole binding	GO:MF	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0.031960365	1	1	1	1	1	0.092165073	1	1	0.001220046	1	1	1	0.002495978	1
+GO:0020037	heme binding	GO:MF	0	0	0	0	0	1	0	0	1	0	0	0	1	0	0.031885505	1	1	1	1	1	0.092165073	1	1	0.00114989	1	1	1	0.002341553	1
+GO:0102148	N-acetyl-beta-D-galactosaminidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0000048	peptidyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0000182	rDNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0003696	satellite DNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0016231	beta-N-acetylglucosaminidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.092165073	1	1	1	1	1	0.092165073	1	1	1	1	1	1	1	1
+GO:0004252	serine-type endopeptidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0.055983687	1	1	1	1	1	0.102572737	1	1	1	1	0.009394637	1	1	1
+GO:0004563	beta-N-acetylhexosaminidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.102572737	1	1	1	1	1	0.102572737	1	1	1	1	1	1	1	1
+GO:0030983	mismatched DNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.102572737	1	1	1	1	1	0.102572737	1	1	1	1	1	1	1	1
+GO:0004806	triglyceride lipase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0038187	pattern recognition receptor activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0008093	cytoskeletal anchor activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0008236	serine-type peptidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0.052001102	1	1	1	1	1	0.103819615	1	1	1	1	0.000182589	1	1	1
+GO:0015459	potassium channel regulator activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0030619	U1 snRNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0016705	"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen"	GO:MF	0	0	0	0	0	1	0	0	1	0	1	0	0	0	0.036872053	1	1	1	1	1	0.103819615	1	1	0.006795955	1	5.89E-07	1	1	1
+GO:0015929	hexosaminidase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0017171	serine hydrolase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	1	0	0	0	0.052001102	1	1	1	1	1	0.103819615	1	1	1	1	0.000182589	1	1	1
+GO:0016406	carnitine O-acyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0099122	RNA polymerase II C-terminal domain binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0001530	lipopolysaccharide binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.103819615	1	1	1	1	1	0.103819615	1	1	1	1	1	1	1	1
+GO:0000400	four-way junction DNA binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.109830609	1	1	1	1	1	0.109830609	1	1	1	1	1	1	1	1
+GO:0072555	17-beta-ketosteroid reductase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.109830609	1	1	1	1	1	0.109830609	1	1	1	1	1	1	1	1
+GO:0072582	17-beta-hydroxysteroid dehydrogenase (NADP+) activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.109830609	1	1	1	1	1	0.109830609	1	1	1	1	1	1	1	1
+GO:0008970	phospholipase A1 activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.109830609	1	1	1	1	1	0.109830609	1	1	1	1	1	1	1	1
+GO:0000253	3-keto sterol reductase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.119016916	1	1	1	1	1	0.119016916	1	1	1	1	1	1	1	1
+GO:0005245	voltage-gated calcium channel activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.119016916	1	1	1	1	1	0.119016916	1	1	1	1	1	1	1	1
+GO:0016755	aminoacyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.133638607	1	1	1	1	1	0.133638607	1	1	1	1	1	1	1	1
+GO:0019003	GDP binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.133638607	1	1	1	1	1	0.133638607	1	1	1	1	1	1	1	1
+GO:0019894	kinesin binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.133638607	1	1	1	1	1	0.133638607	1	1	1	1	1	1	1	1
+GO:0016746	acyltransferase activity	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.133638607	1	1	1	1	1	0.133638607	1	1	1	1	1	1	1	1
+GO:0030247	polysaccharide binding	GO:MF	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.133638607	1	1	1	1	1	0.133638607	1	1	1	1	1	1	1	1
+GO:0034770	histone H4-K20 methylation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.12544346	1	1	1	1	1	0.12544346	1	1	1	1	1	1	1	1
+GO:0002764	immune response-regulating signaling pathway	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.131116573	1	1	1	1	1	0.131116573	1	1	1	1	1	1	1	1
+GO:0009732	detection of hexose stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0002274	myeloid leukocyte activation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0003014	renal system process	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0005975	carbohydrate metabolic process	GO:BP	0	0	0	0	0	1	0	0	0	0	1	0	1	0	0.048358374	1	1	1	1	1	0.144233726	1	1	1	1	0.000841396	1	2.85E-10	1
+GO:1905646	positive regulation of FACT complex assembly	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:1905644	regulation of FACT complex assembly	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:1905635	FACT complex assembly	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0070511	negative regulation of histone H4-K20 methylation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0070510	regulation of histone H4-K20 methylation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0051594	detection of glucose	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0044089	positive regulation of cellular component biogenesis	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0042116	macrophage activation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0038188	cholecystokinin signaling pathway	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0007204	positive regulation of cytosolic calcium ion concentration	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0034289	detection of maltose stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0034288	detection of disaccharide stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0009730	detection of carbohydrate stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0034286	response to maltose	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0031060	regulation of histone methylation	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0010524	positive regulation of calcium ion transport into cytosol	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0009731	detection of sucrose stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0034287	detection of monosaccharide stimulus	GO:BP	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.144233726	1	1	1	1	1	0.144233726	1	1	1	1	1	1	1	1
+GO:0055120	striated muscle dense body	GO:CC	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.008347773	1	1	1	1	1	0.008347773	1	1	1	1	1	1	1	1
+KEGG:00520	Amino sugar and nucleotide sugar metabolism	KEGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.104216309	1	1	1	1	1	0.104216309	1	1	1	1	1	1	1	1
+KEGG:00603	Glycosphingolipid biosynthesis - globo and isoglobo series	KEGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.104216309	1	1	1	1	1	0.104216309	1	1	1	1	1	1	1	1
+KEGG:00604	Glycosphingolipid biosynthesis - ganglio series	KEGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.104216309	1	1	1	1	1	0.104216309	1	1	1	1	1	1	1	1
+KEGG:04142	Lysosome	KEGG	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0.069730865	1	1	1	1	1	0.104216309	0.035245421	1	1	1	1	1	1	1
+KEGG:04080	Neuroactive ligand-receptor interaction	KEGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.104216309	1	1	1	1	1	0.104216309	1	1	1	1	1	1	1	1
+KEGG:00430	Taurine and hypotaurine metabolism	KEGG	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0.129554633	1	1	1	1	1	0.129554633	1	1	1	1	1	1	1	1
+GO:0007049	cell cycle	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	8.22659E-05	1	1	1	1	1	1	8.22659E-05	1	1	1	1	1	1	1
+GO:0007338	single fertilization	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000121324	1	1	1	1	1	1	0.000121324	1	1	1	1	1	1	1
+GO:0009566	fertilization	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000209593	1	1	1	1	1	1	0.000209593	1	1	1	1	1	1	1
+GO:0006260	DNA replication	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000382741	1	1	1	1	1	1	0.000382741	1	1	1	1	1	1	1
+GO:0022402	cell cycle process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000432341	1	1	1	1	1	1	0.000432341	1	1	1	1	1	1	1
+GO:0044703	multi-organism reproductive process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000566633	1	1	1	1	1	1	0.000566633	1	1	1	1	1	1	1
+GO:0019953	sexual reproduction	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000566633	1	1	1	1	1	1	0.000566633	1	1	1	1	1	1	1
+GO:0008354	germ cell migration	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.00083082	1	1	1	1	1	1	0.00083082	1	1	1	1	1	1	1
+GO:0051704	multi-organism process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000873368	1	1	1	1	1	1	0.000873368	1	1	1	1	1	1	1
+GO:0022414	reproductive process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.00166015	1	1	1	1	1	1	0.00166015	1	1	1	1	1	1	1
+GO:0006270	DNA replication initiation	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.002259667	1	1	1	1	1	1	0.002259667	1	1	1	1	1	1	1
+GO:0006259	DNA metabolic process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.002766188	1	1	1	1	1	1	0.002766188	1	1	1	1	1	1	1
+GO:0051301	cell division	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.00360379	1	1	1	1	1	1	0.00360379	1	1	1	1	1	1	1
+GO:0022412	cellular process involved in reproduction in multicellular organism	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.004004429	1	1	1	1	1	1	0.004004429	1	1	1	1	1	1	1
+GO:0051726	regulation of cell cycle	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.004266879	1	1	1	1	1	1	0.004266879	1	1	1	1	1	1	1
+GO:0007292	female gamete generation	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.005709086	1	1	1	1	1	1	0.005709086	1	1	1	1	1	1	1
+GO:0006261	DNA-dependent DNA replication	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.008162371	1	1	1	1	1	1	0.008162371	1	1	1	1	1	1	1
+GO:0009790	embryo development	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.008280074	1	1	1	1	1	1	0.008280074	1	1	1	1	1	1	1
+GO:0000003	reproduction	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.01198788	1	1	1	1	1	1	0.01198788	1	1	1	1	1	1	1
+GO:0007276	gamete generation	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.012699065	1	1	1	1	1	1	0.012699065	1	1	1	1	1	1	1
+GO:0000278	mitotic cell cycle	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.013978388	1	1	1	1	1	1	0.013978388	1	1	1	1	1	1	1
+GO:0007280	pole cell migration	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.017088599	1	1	1	1	1	1	0.017088599	1	1	1	1	1	1	1
+GO:0009880	embryonic pattern specification	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021692779	1	1	1	1	1	1	0.021692779	1	1	1	1	1	1	1
+GO:0010564	regulation of cell cycle process	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.023390063	1	1	1	1	1	1	0.023390063	1	1	1	1	1	1	1
+GO:0009948	anterior/posterior axis specification	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.028393149	1	1	1	1	1	1	0.028393149	1	1	1	1	1	1	1
+GO:0007346	regulation of mitotic cell cycle	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.036543762	1	1	1	1	1	1	0.036543762	1	1	1	1	1	1	1
+GO:0071163	DNA replication preinitiation complex assembly	GO:BP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.049641521	1	1	1	1	1	1	0.049641521	1	1	1	1	1	1	1
+GO:0005657	replication fork	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000359168	1	1	1	1	1	1	0.000359168	1	1	1	1	1	1	1
+GO:0043596	nuclear replication fork	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.001011291	1	1	1	1	1	1	0.001011291	1	1	1	1	1	1	1
+GO:0005694	chromosome	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.001817668	1	1	1	1	1	1	0.001817668	1	1	1	1	1	1	1
+GO:0031981	nuclear lumen	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.001929236	1	1	1	1	1	1	0.001929236	1	1	1	1	1	1	1
+GO:0000228	nuclear chromosome	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.002275508	1	1	1	1	1	1	0.002275508	1	1	1	1	1	1	1
+GO:0005654	nucleoplasm	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.002406752	1	1	1	1	1	1	0.002406752	1	1	1	1	1	1	1
+GO:0043228	non-membrane-bounded organelle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0.002316847	1	1	1	1	1	1	0.004015663	1	1	1	1	0.000618031	1	1
+GO:0043232	intracellular non-membrane-bounded organelle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0.002316847	1	1	1	1	1	1	0.004015663	1	1	1	1	0.000618031	1	1
+GO:0070013	intracellular organelle lumen	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.012592887	1	1	1	1	1	1	0.012592887	1	1	1	1	1	1	1
+GO:0043233	organelle lumen	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.012592887	1	1	1	1	1	1	0.012592887	1	1	1	1	1	1	1
+GO:0031974	membrane-enclosed lumen	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.012592887	1	1	1	1	1	1	0.012592887	1	1	1	1	1	1	1
+GO:0031461	cullin-RING ubiquitin ligase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.012592887	1	1	1	1	1	1	0.012592887	1	1	1	1	1	1	1
+GO:0140513	nuclear protein-containing complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.013494848	1	1	1	1	1	1	0.013494848	1	1	1	1	1	1	1
+GO:0031298	replication fork protection complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.013633776	1	1	1	1	1	1	0.013633776	1	1	1	1	1	1	1
+GO:0030894	replisome	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021135701	1	1	1	1	1	1	0.021135701	1	1	1	1	1	1	1
+GO:0071162	CMG complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021135701	1	1	1	1	1	1	0.021135701	1	1	1	1	1	1	1
+GO:1902554	serine/threonine protein kinase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021135701	1	1	1	1	1	1	0.021135701	1	1	1	1	1	1	1
+GO:0043601	nuclear replisome	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021135701	1	1	1	1	1	1	0.021135701	1	1	1	1	1	1	1
+GO:1990234	transferase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.021286662	1	1	1	1	1	1	0.021286662	1	1	1	1	1	1	1
+GO:0031261	DNA replication preinitiation complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.02337822	1	1	1	1	1	1	0.02337822	1	1	1	1	1	1	1
+GO:0098687	chromosomal region	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.024226052	1	1	1	1	1	1	0.024226052	1	1	1	1	1	1	1
+GO:0005819	spindle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.024286761	1	1	1	1	1	1	0.024286761	1	1	1	1	1	1	1
+GO:1902911	protein kinase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.029152928	1	1	1	1	1	1	0.029152928	1	1	1	1	1	1	1
+GO:0048471	perinuclear region of cytoplasm	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.029152928	1	1	1	1	1	1	0.029152928	1	1	1	1	1	1	1
+GO:0032993	protein-DNA complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.029152928	1	1	1	1	1	1	0.029152928	1	1	1	1	1	1	1
+GO:0000151	ubiquitin ligase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.033277552	1	1	1	1	1	1	0.033277552	1	1	1	1	1	1	1
+GO:0005680	anaphase-promoting complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.041604898	1	1	1	1	1	1	0.041604898	1	1	1	1	1	1	1
+GO:0015630	microtubule cytoskeleton	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.041604898	1	1	1	1	1	1	0.041604898	1	1	1	1	1	1	1
+GO:0005938	cell cortex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.078373814	1	1	1	1	1	1	0.078373814	1	1	1	1	1	1	1
+GO:0032044	DSIF complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.078373814	1	1	1	1	1	1	0.078373814	1	1	1	1	1	1	1
+GO:0005815	microtubule organizing center	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.081990568	1	1	1	1	1	1	0.081990568	1	1	1	1	1	1	1
+GO:0005635	nuclear envelope	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.0836626	1	1	1	1	1	1	0.0836626	1	1	1	1	1	1	1
+GO:0031466	Cul5-RING ubiquitin ligase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0000781	"chromosome, telomeric region"	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0016580	Sin3 complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0099080	supramolecular complex	GO:CC	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0.028905603	1	1	1	1	1	1	0.086716807	1.97E-10	1	1	1	2.88E-15	1	1
+GO:0000152	nuclear ubiquitin ligase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0055028	cortical microtubule	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0030670	phagocytic vesicle membrane	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0110071	cellularization cleavage furrow invagination front	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0005811	lipid droplet	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0110070	cellularization cleavage furrow	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.086716807	1	1	1	1	1	1	0.086716807	1	1	1	1	1	1	1
+GO:0070449	elongin complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0070390	transcription export complex 2	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0061695	"transferase complex, transferring phosphorus-containing groups"	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0033647	host intracellular organelle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0000811	GINS complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0043656	host intracellular region	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0033643	host cell part	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0033648	host intracellular membrane-bounded organelle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0042025	host cell nucleus	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0034399	nuclear periphery	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0032154	cleavage furrow	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0033646	host intracellular part	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0071819	DUBm complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0043657	host cell	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0036387	pre-replicative complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005677	chromatin silencing complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005881	cytoplasmic microtubule	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005662	DNA replication factor A complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0018995	host cellular component	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005658	alpha DNA polymerase:primase complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0030981	cortical microtubule cytoskeleton	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005874	microtubule	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0005656	nuclear pre-replicative complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.088281869	1	1	1	1	1	1	0.088281869	1	1	1	1	1	1	1
+GO:0140535	intracellular protein-containing complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.10021267	1	1	1	1	1	1	0.10021267	1	1	1	1	1	1	1
+GO:0008023	transcription elongation factor complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.10021267	1	1	1	1	1	1	0.10021267	1	1	1	1	1	1	1
+GO:0000439	transcription factor TFIIH core complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.112904771	1	1	1	1	1	1	0.112904771	1	1	1	1	1	1	1
+GO:0000776	kinetochore	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.122193111	1	1	1	1	1	1	0.122193111	1	1	1	1	1	1	1
+GO:0005643	nuclear pore	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.122193111	1	1	1	1	1	1	0.122193111	1	1	1	1	1	1	1
+GO:0045495	pole plasm	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.123168525	1	1	1	1	1	1	0.123168525	1	1	1	1	1	1	1
+GO:0005664	nuclear origin of replication recognition complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.123168525	1	1	1	1	1	1	0.123168525	1	1	1	1	1	1	1
+GO:0000808	origin recognition complex	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.123168525	1	1	1	1	1	1	0.123168525	1	1	1	1	1	1	1
+GO:0032153	cell division site	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.133522685	1	1	1	1	1	1	0.133522685	1	1	1	1	1	1	1
+GO:0099513	polymeric cytoskeletal fiber	GO:CC	0	0	0	0	0	0	1	0	0	0	0	1	0	0	0.080588002	1	1	1	1	1	1	0.133522685	1	1	1	1	0.027653319	1	1
+GO:0045335	phagocytic vesicle	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.135273008	1	1	1	1	1	1	0.135273008	1	1	1	1	1	1	1
+GO:0000779	"condensed chromosome, centromeric region"	GO:CC	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.137885167	1	1	1	1	1	1	0.137885167	1	1	1	1	1	1	1
+KEGG:03030	DNA replication	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.026169743	1	1	1	1	1	1	0.026169743	1	1	1	1	1	1	1
+KEGG:00730	Thiamine metabolism	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.035245421	1	1	1	1	1	1	0.035245421	1	1	1	1	1	1	1
+KEGG:00511	Other glycan degradation	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.035245421	1	1	1	1	1	1	0.035245421	1	1	1	1	1	1	1
+KEGG:03430	Mismatch repair	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.035245421	1	1	1	1	1	1	0.035245421	1	1	1	1	1	1	1
+KEGG:00790	Folate biosynthesis	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.079586121	1	1	1	1	1	1	0.079586121	1	1	1	1	1	1	1
+KEGG:03420	Nucleotide excision repair	KEGG	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.079586121	1	1	1	1	1	1	0.079586121	1	1	1	1	1	1	1
+WP:WP565	DNA Replication	WP	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0.000332948	1	1	1	1	1	1	0.000332948	1	1	1	1	1	1	1
+GO:0003779	actin binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.50873E-09	1	1	1	1	1	1	1	8.43E-11	1	1	1	6.93E-09	1	1
+GO:0008092	cytoskeletal protein binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2.25902E-06	1	1	1	1	1	1	1	3.14067E-06	1	1	1	1.37737E-06	1	1
+GO:0051015	actin filament binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000639073	1	1	1	1	1	1	1	1.2414E-05	1	1	1	0.001265732	1	1
+GO:0051371	muscle alpha-actinin binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000265275	1	1	1	1	1	1	1	3.77612E-05	1	1	1	0.000492788	1	1
+GO:0042805	actinin binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000546895	1	1	1	1	1	1	1	0.000112174	1	1	1	0.000981617	1	1
+GO:0051393	alpha-actinin binding	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000546895	1	1	1	1	1	1	1	0.000112174	1	1	1	0.000981617	1	1
+GO:0008307	structural constituent of muscle	GO:MF	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.01544082	1	1	1	1	1	1	1	0.009343697	1	1	1	0.021537943	1	1
+GO:0004449	isocitrate dehydrogenase (NAD+) activity	GO:MF	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.012027425	1	1	1	1	1	1	1	0.012027425	1	1	1	1	1	1
+GO:0004448	isocitrate dehydrogenase activity	GO:MF	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.020853613	1	1	1	1	1	1	1	0.020853613	1	1	1	1	1	1
+GO:0030239	myofibril assembly	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.55973E-16	1	1	1	1	1	1	1	6.41E-19	1	1	1	7.11E-16	1	1
+GO:0055002	striated muscle cell development	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.55973E-16	1	1	1	1	1	1	1	6.41E-19	1	1	1	7.11E-16	1	1
+GO:0055001	muscle cell development	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.12145E-15	1	1	1	1	1	1	1	3.43E-18	1	1	1	2.24E-15	1	1
+GO:0031032	actomyosin structure organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.69933E-13	1	1	1	1	1	1	1	1.58E-15	1	1	1	3.38E-13	1	1
+GO:0051146	striated muscle cell differentiation	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.41325E-12	1	1	1	1	1	1	1	8.62E-14	1	1	1	2.74E-12	1	1
+GO:0061061	muscle structure development	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	6.90538E-12	1	1	1	1	1	1	1	4.88E-13	1	1	1	1.33E-11	1	1
+GO:0042692	muscle cell differentiation	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.22604E-11	1	1	1	1	1	1	1	1.65E-12	1	1	1	2.29E-11	1	1
+GO:0030036	actin cytoskeleton organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.00191E-10	1	1	1	1	1	1	1	1.31E-11	1	1	1	1.87E-10	1	1
+GO:0045214	sarcomere organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.79246E-08	1	1	1	1	1	1	1	3.34E-11	1	1	1	3.58E-08	1	1
+GO:0030029	actin filament-based process	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2.14857E-10	1	1	1	1	1	1	1	3.79E-11	1	1	1	3.92E-10	1	1
+GO:0010927	cellular component assembly involved in morphogenesis	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2.51957E-09	1	1	1	1	1	1	1	1.58E-09	1	1	1	3.46E-09	1	1
+GO:0003012	muscle system process	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.17797E-09	1	1	1	1	1	1	1	2.34E-09	1	1	1	1.53E-11	1	1
+GO:0097435	supramolecular fiber organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	5.12996E-08	1	1	1	1	1	1	1	6.07E-09	1	1	1	9.65E-08	1	1
+GO:0007010	cytoskeleton organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	5.56529E-07	1	1	1	1	1	1	1	7.61E-08	1	1	1	1.03696E-06	1	1
+GO:0006936	muscle contraction	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	7.09821E-08	1	1	1	1	1	1	1	1.36E-07	1	1	1	5.61E-09	1	1
+GO:0032989	cellular component morphogenesis	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000549332	1	1	1	1	1	1	1	3.22331E-06	1	1	1	0.001095441	1	1
+GO:0007498	mesoderm development	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001036901	1	1	1	1	1	1	1	8.82674E-05	1	1	1	0.001985534	1	1
+GO:0060361	flight	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000185966	1	1	1	1	1	1	1	0.000105654	1	1	1	0.000266278	1	1
+GO:0007517	muscle organ development	GO:BP	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.000528615	1	1	1	1	1	1	1	0.000528615	1	1	1	1	1	1
+GO:0070925	organelle assembly	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.002965009	1	1	1	1	1	1	1	0.004839148	1	1	1	0.00109087	1	1
+GO:0048646	anatomical structure formation involved in morphogenesis	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.01190989	1	1	1	1	1	1	1	0.010560918	1	1	1	0.013258862	1	1
+GO:0072350	tricarboxylic acid metabolic process	GO:BP	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.015409838	1	1	1	1	1	1	1	0.015409838	1	1	1	1	1	1
+GO:0007015	actin filament organization	GO:BP	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.034257871	1	1	1	1	1	1	1	0.034257871	1	1	1	1	1	1
+GO:0071689	muscle thin filament assembly	GO:BP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.027291594	1	1	1	1	1	1	1	0.049953882	1	1	1	0.004629306	1	1
+GO:0043292	contractile fiber	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.75579E-29	1	1	1	1	1	1	1	4.70E-29	1	1	1	2.81E-29	1	1
+GO:0030016	myofibril	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	4.08723E-28	1	1	1	1	1	1	1	4.35E-28	1	1	1	3.82E-28	1	1
+GO:0030017	sarcomere	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.67137E-27	1	1	1	1	1	1	1	2.52E-27	1	1	1	4.82E-27	1	1
+GO:0015629	actin cytoskeleton	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	5.72965E-15	1	1	1	1	1	1	1	8.72E-15	1	1	1	2.74E-15	1	1
+GO:0099512	supramolecular fiber	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	6.1408E-15	1	1	1	1	1	1	1	1.23E-14	1	1	1	1.09E-18	1	1
+GO:0099081	supramolecular polymer	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	8.17398E-15	1	1	1	1	1	1	1	1.63E-14	1	1	1	1.12E-18	1	1
+GO:0031674	I band	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	6.68145E-14	1	1	1	1	1	1	1	1.08E-13	1	1	1	2.59E-14	1	1
+GO:0030018	Z disc	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.92666E-12	1	1	1	1	1	1	1	2.73E-12	1	1	1	1.13E-12	1	1
+GO:0036379	myofilament	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	3.93115E-08	1	1	1	1	1	1	1	9.46E-09	1	1	1	6.92E-08	1	1
+GO:0005863	striated muscle myosin thick filament	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	2.67871E-05	1	1	1	1	1	1	1	3.25979E-05	1	1	1	2.09764E-05	1	1
+GO:0031672	A band	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	1.76701E-05	1	1	1	1	1	1	1	3.41514E-05	1	1	1	1.18875E-06	1	1
+GO:0032982	myosin filament	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	6.79942E-05	1	1	1	1	1	1	1	9.68159E-05	1	1	1	3.91724E-05	1	1
+GO:0005884	actin filament	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000432424	1	1	1	1	1	1	1	0.000850295	1	1	1	1.45532E-05	1	1
+GO:0031941	filamentous actin	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000759873	1	1	1	1	1	1	1	0.001302075	1	1	1	0.000217671	1	1
+GO:0042641	actomyosin	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001139539	1	1	1	1	1	1	1	0.002025698	1	1	1	0.000253379	1	1
+GO:0001725	stress fiber	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001139539	1	1	1	1	1	1	1	0.002025698	1	1	1	0.000253379	1	1
+GO:0097517	contractile actin filament bundle	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001139539	1	1	1	1	1	1	1	0.002025698	1	1	1	0.000253379	1	1
+GO:0016459	myosin complex	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001150153	1	1	1	1	1	1	1	0.002297972	1	1	1	2.33439E-06	1	1
+GO:0031012	extracellular matrix	GO:CC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.003510103	1	1	1	1	1	1	1	0.003510103	1	1	1	1	1	1
+GO:0032432	actin filament bundle	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.003221419	1	1	1	1	1	1	1	0.005962614	1	1	1	0.000480224	1	1
+GO:0070161	anchoring junction	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.012204824	1	1	1	1	1	1	1	0.011114062	1	1	1	0.013295585	1	1
+GO:0030312	external encapsulating structure	GO:CC	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.01252595	1	1	1	1	1	1	1	0.01252595	1	1	1	1	1	1
+GO:0005856	cytoskeleton	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.006311055	1	1	1	1	1	1	1	0.012602287	1	1	1	1.98228E-05	1	1
+GO:0005865	striated muscle thin filament	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.011039077	1	1	1	1	1	1	1	0.017635119	1	1	1	0.004443034	1	1
+GO:0005861	troponin complex	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.020795885	1	1	1	1	1	1	1	0.041314754	1	1	1	0.000277017	1	1
+GO:0030055	cell-substrate junction	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.06655471	1	1	1	1	1	1	1	0.042489265	1	1	1	0.090620154	1	1
+GO:0030054	cell junction	GO:CC	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.037409247	1	1	1	1	1	1	1	0.047165175	1	1	1	0.027653319	1	1
+KEGG:01230	Biosynthesis of amino acids	KEGG	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001595997	1	1	1	1	1	1	1	0.000406762	1	1	1	0.002785232	1	1
+KEGG:01210	2-Oxocarboxylic acid metabolism	KEGG	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.021401748	1	1	1	1	1	1	1	0.000727528	1	1	1	0.042075967	1	1
+KEGG:00020	Citrate cycle (TCA cycle)	KEGG	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.044672844	1	1	1	1	1	1	1	0.010897591	1	1	1	0.078448098	1	1
+HP:0100578	Lipoatrophy	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.000937079	1	1	1	1	1	1	1	0.000118592	1	1	1	0.001755567	1	1
+HP:0006673	Reduced systolic function	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.001527716	1	1	1	1	1	1	1	0.000315919	1	1	1	0.002739513	1	1
+HP:0005110	Atrial fibrillation	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.003431327	1	1	1	1	1	1	1	0.000806228	1	1	1	0.006056427	1	1
+HP:0031329	Interstitial cardiac fibrosis	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.002527118	1	1	1	1	1	1	1	0.004677643	1	1	1	0.000376594	1	1
+HP:0009125	Lipodystrophy	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.005796743	1	1	1	1	1	1	1	0.005435322	1	1	1	0.006158164	1	1
+HP:0001787	Abnormal delivery	HP	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.011134309	1	1	1	1	1	1	1	0.011134309	1	1	1	1	1	1
+HP:0004306	Abnormal endocardium morphology	HP	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0.017114176	1	1	1	1	1	1	1	0.017114176	1	1	1	1	1	1
+HP:0003798	Nemaline bodies	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.014975681	1	1	1	1	1	1	1	0.020792847	1	1	1	0.009158516	1	1
+HP:0001692	Atrial arrhythmia	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.028036652	1	1	1	1	1	1	1	0.030690457	1	1	1	0.025382847	1	1
+HP:0001644	Dilated cardiomyopathy	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.020511573	1	1	1	1	1	1	1	0.033214765	1	1	1	0.007808381	1	1
+HP:0004756	Ventricular tachycardia	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.023788286	1	1	1	1	1	1	1	0.038288365	1	1	1	0.009288207	1	1
+HP:0100830	Round ear	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.023810516	1	1	1	1	1	1	1	0.045758141	1	1	1	0.001862891	1	1
+HP:0001685	Myocardial fibrosis	HP	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0.02289242	1	1	1	1	1	1	1	0.045758141	1	1	1	2.66989E-05	1	1
+GO:0016491	oxidoreductase activity	GO:MF	0	0	0	0	0	0	0	0	1	0	1	0	1	0	1.14702E-09	1	1	1	1	1	1	1	1	4.29E-13	1	3.44E-09	1	7.94E-16	1
+GO:0016645	"oxidoreductase activity, acting on the CH-NH group of donors"	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000166805	1	1	1	1	1	1	1	1	4.24547E-05	1	1	1	0.000291155	1
+GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.00022053	1	1	1	1	1	1	1	1	0.00022053	1	1	1	1	1
+GO:0004488	methylenetetrahydrofolate dehydrogenase (NADP+) activity	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.00022053	1	1	1	1	1	1	1	1	0.00022053	1	1	1	1	1
+GO:0019238	cyclohydrolase activity	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.00087649	1	1	1	1	1	1	1	1	0.00087649	1	1	1	1	1
+GO:0004497	monooxygenase activity	GO:MF	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0.002228226	1	1	1	1	1	1	1	1	0.00259112	1	0.000369489	1	0.00372407	1
+GO:0005506	iron ion binding	GO:MF	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0.014909127	1	1	1	1	1	1	1	1	0.002808012	1	0.00504194	1	0.036877429	1
+GO:0016646	"oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor"	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.012039582	1	1	1	1	1	1	1	1	0.005222544	1	1	1	0.018856621	1
+GO:0004487	methylenetetrahydrofolate dehydrogenase (NAD+) activity	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.025670944	1	1	1	1	1	1	1	1	0.025670944	1	1	1	1	1
+GO:0004477	methenyltetrahydrofolate cyclohydrolase activity	GO:MF	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.025670944	1	1	1	1	1	1	1	1	0.025670944	1	1	1	1	1
+GO:0055114	obsolete oxidation-reduction process	GO:BP	0	0	0	0	0	0	0	0	1	0	1	0	1	0	1.37246E-09	1	1	1	1	1	1	1	1	7.07E-13	1	4.12E-09	1	1.66E-15	1
+GO:0044282	small molecule catabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1.3286E-06	1	1	1	1	1	1	1	1	1.10602E-06	1	1	1	1.55118E-06	1
+GO:0009069	serine family amino acid metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000423013	1	1	1	1	1	1	1	1	1.7574E-06	1	1	1	0.00084427	1
+GO:0032787	monocarboxylic acid metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000326291	1	1	1	1	1	1	1	1	7.11416E-06	1	1	1	0.000645468	1
+GO:0035999	tetrahydrofolate interconversion	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.007770264	1	1	1	1	1	1	1	1	1.86552E-05	1	1	1	0.015521872	1
+GO:0072521	purine-containing compound metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	3.6439E-05	1	1	1	1	1	1	1	1	3.6439E-05	1	1	1	1	1
+GO:0009071	serine family amino acid catabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000379166	1	1	1	1	1	1	1	1	0.000128932	1	1	1	0.0006294	1
+GO:0006189	'de novo' IMP biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000128932	1	1	1	1	1	1	1	1	0.000128932	1	1	1	1	1
+GO:0016053	organic acid biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0.008480655	1	1	1	1	1	1	1	1	0.000145129	1	0.025289238	1	7.59961E-06	1
+GO:0055086	nucleobase-containing small molecule metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000203927	1	1	1	1	1	1	1	1	0.000203927	1	1	1	1	1
+GO:0006188	IMP biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000256225	1	1	1	1	1	1	1	1	0.000256225	1	1	1	1	1
+GO:0046653	tetrahydrofolate metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000256225	1	1	1	1	1	1	1	1	0.000256225	1	1	1	1	1
+GO:0046040	IMP metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000458276	1	1	1	1	1	1	1	1	0.000458276	1	1	1	1	1
+GO:0006163	purine nucleotide metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000745706	1	1	1	1	1	1	1	1	0.000745706	1	1	1	1	1
+GO:1901607	alpha-amino acid biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.000835016	1	1	1	1	1	1	1	1	0.000835016	1	1	1	1	1
+GO:0046394	carboxylic acid biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000763474	1	1	1	1	1	1	1	1	0.001102031	1	1	1	0.000424917	1
+GO:0008652	cellular amino acid biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.001117153	1	1	1	1	1	1	1	1	0.001117153	1	1	1	1	1
+GO:0009126	purine nucleoside monophosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.001119612	1	1	1	1	1	1	1	1	0.001119612	1	1	1	1	1
+GO:0009167	purine ribonucleoside monophosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.001119612	1	1	1	1	1	1	1	1	0.001119612	1	1	1	1	1
+GO:0006631	fatty acid metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.001332392	1	1	1	1	1	1	1	1	0.001332392	1	1	1	1	1
+GO:0044283	small molecule biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0.01594147	1	1	1	1	1	1	1	1	0.001371061	1	0.045949933	1	0.000503415	1
+GO:0006760	folic acid-containing compound metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.001766287	1	1	1	1	1	1	1	1	0.001766287	1	1	1	1	1
+GO:0009150	purine ribonucleotide metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.00344833	1	1	1	1	1	1	1	1	0.00344833	1	1	1	1	1
+GO:0006563	L-serine metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.004618734	1	1	1	1	1	1	1	1	0.004618734	1	1	1	1	1
+GO:0006730	one-carbon metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.005033465	1	1	1	1	1	1	1	1	0.005033465	1	1	1	1	1
+GO:0009117	nucleotide metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.005226634	1	1	1	1	1	1	1	1	0.005226634	1	1	1	1	1
+GO:0006753	nucleoside phosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.005861181	1	1	1	1	1	1	1	1	0.005861181	1	1	1	1	1
+GO:0009259	ribonucleotide metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.006442365	1	1	1	1	1	1	1	1	0.006442365	1	1	1	1	1
+GO:0019693	ribose phosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.007631493	1	1	1	1	1	1	1	1	0.007631493	1	1	1	1	1
+GO:0006575	cellular modified amino acid metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.009012139	1	1	1	1	1	1	1	1	0.009012139	1	1	1	1	1
+GO:0009113	purine nucleobase biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.009181857	1	1	1	1	1	1	1	1	0.009181857	1	1	1	1	1
+GO:0072522	purine-containing compound biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.009420618	1	1	1	1	1	1	1	1	0.009420618	1	1	1	1	1
+GO:0042558	pteridine-containing compound metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.020167389	1	1	1	1	1	1	1	1	0.020167389	1	1	1	1	1
+GO:0017085	response to insecticide	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.020167389	1	1	1	1	1	1	1	1	0.020167389	1	1	1	1	1
+GO:0006544	glycine metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.013323927	1	1	1	1	1	1	1	1	0.025400746	1	1	1	0.001247108	1
+GO:1901135	carbohydrate derivative metabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.029644002	1	1	1	1	1	1	1	1	0.029644002	1	1	1	1	1
+GO:0046680	response to DDT	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.037871982	1	1	1	1	1	1	1	1	0.037871982	1	1	1	1	1
+GO:0072329	monocarboxylic acid catabolic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.042643782	1	1	1	1	1	1	1	1	0.042643782	1	1	1	1	1
+GO:0006164	purine nucleotide biosynthetic process	GO:BP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.04553257	1	1	1	1	1	1	1	1	0.04553257	1	1	1	1	1
+GO:0005739	mitochondrion	GO:CC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	5.75435E-06	1	1	1	1	1	1	1	1	5.75435E-06	1	1	1	1	1
+GO:0005829	cytosol	GO:CC	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.043708095	1	1	1	1	1	1	1	1	0.043708095	1	1	1	1	1
+KEGG:01100	Metabolic pathways	KEGG	0	0	0	0	0	0	0	0	1	0	1	0	1	0	1.89695E-08	1	1	1	1	1	1	1	1	2.69E-12	1	5.69E-08	1	3.18E-12	1
+KEGG:00670	One carbon pool by folate	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000776689	1	1	1	1	1	1	1	1	1.52593E-05	1	1	1	0.001538119	1
+KEGG:00260	"Glycine, serine and threonine metabolism"	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.000180506	1	1	1	1	1	1	1	1	8.41385E-05	1	1	1	0.000276873	1
+KEGG:01200	Carbon metabolism	KEGG	0	0	0	0	0	0	0	0	1	0	0	1	1	0	0.026988368	1	1	1	1	1	1	1	1	0.002208373	1	1	0.078448098	0.000308635	1
+KEGG:00630	Glyoxylate and dicarboxylate metabolism	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.002172417	1	1	1	1	1	1	1	1	0.00358702	1	1	1	0.000757814	1
+KEGG:00052	Galactose metabolism	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.003390246	1	1	1	1	1	1	1	1	0.005503726	1	1	1	0.001276767	1
+KEGG:00561	Glycerolipid metabolism	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.007372022	1	1	1	1	1	1	1	1	0.011587992	1	1	1	0.003156053	1
+KEGG:00040	Pentose and glucuronate interconversions	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.01316224	1	1	1	1	1	1	1	1	0.026318415	1	1	1	6.0649E-06	1
+KEGG:01212	Fatty acid metabolism	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.034434669	1	1	1	1	1	1	1	1	0.034434669	1	1	1	1	1
+KEGG:00071	Fatty acid degradation	KEGG	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.043622298	1	1	1	1	1	1	1	1	0.043622298	1	1	1	1	1
+WP:WP1203	One Carbon Metabolism	WP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1.43827E-05	1	1	1	1	1	1	1	1	2.58E-07	1	1	1	2.85071E-05	1
+WP:WP443	Beta Oxidation Meta	WP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.008656238	1	1	1	1	1	1	1	1	0.008656238	1	1	1	1	1
+WP:WP568	Fatty Acid Biosynthesis	WP	0	0	0	0	0	0	0	0	1	0	1	0	1	0	0.015290744	1	1	1	1	1	1	1	1	0.013256976	1	0.016250634	1	0.016364622	1
+WP:WP39	Fatty Acid Beta Oxidation 1	WP	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0.045199673	1	1	1	1	1	1	1	1	0.045199673	1	1	1	1	1
+TF:M00487	Factor: mtTFA; motif: KNCTTATCNNN	TF	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.004607672	1	1	1	1	1	1	1	1	0.0011207	1	1	1	0.008094645	1
+HP:0004354	Abnormal circulating carboxylic acid concentration	HP	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0.015254808	1	1	1	1	1	1	1	1	0.028003947	1	1	1	0.002505669	1
+GO:0042052	rhabdomere development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	7.6903E-05	1	1	1	1	1	1	1	1	1	7.6903E-05	1	1	1	1
+GO:0042051	compound eye photoreceptor development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.001629589	1	1	1	1	1	1	1	1	1	0.001629589	1	1	1	1
+GO:0042462	eye photoreceptor cell development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.00186142	1	1	1	1	1	1	1	1	1	0.00186142	1	1	1	1
+GO:0042461	photoreceptor cell development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.003535006	1	1	1	1	1	1	1	1	1	0.003535006	1	1	1	1
+GO:0001745	compound eye morphogenesis	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.010001087	1	1	1	1	1	1	1	1	1	0.010001087	1	1	1	1
+GO:0048592	eye morphogenesis	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.011683787	1	1	1	1	1	1	1	1	1	0.011683787	1	1	1	1
+GO:0090596	sensory organ morphogenesis	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.011683787	1	1	1	1	1	1	1	1	1	0.011683787	1	1	1	1
+GO:0048749	compound eye development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.025631596	1	1	1	1	1	1	1	1	1	0.025631596	1	1	1	1
+GO:0001654	eye development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.032540636	1	1	1	1	1	1	1	1	1	0.032540636	1	1	1	1
+GO:0048880	sensory system development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.032540636	1	1	1	1	1	1	1	1	1	0.032540636	1	1	1	1
+GO:0150063	visual system development	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.032540636	1	1	1	1	1	1	1	1	1	0.032540636	1	1	1	1
+GO:0001751	compound eye photoreceptor cell differentiation	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.033663761	1	1	1	1	1	1	1	1	1	0.033663761	1	1	1	1
+GO:0001754	eye photoreceptor cell differentiation	GO:BP	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0.037244128	1	1	1	1	1	1	1	1	1	0.037244128	1	1	1	1
+GO:0016614	"oxidoreductase activity, acting on CH-OH group of donors"	GO:MF	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.005629756	1	1	1	1	1	1	1	1	1	1	0.011259485	1	2.75E-08	1
+GO:0016616	"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"	GO:MF	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.009733811	1	1	1	1	1	1	1	1	1	1	0.019467308	1	3.15E-07	1
+GO:0016298	lipase activity	GO:MF	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.044945386	1	1	1	1	1	1	1	1	1	1	0.044945386	1	1	1
+GO:0004771	sterol esterase activity	GO:MF	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.049348249	1	1	1	1	1	1	1	1	1	1	0.049348249	1	1	1
+GO:0006629	lipid metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.008407859	1	1	1	1	1	1	1	1	1	1	0.011011339	1	0.005804379	1
+GO:0016042	lipid catabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.02400983	1	1	1	1	1	1	1	1	1	1	0.020177159	1	0.0278425	1
+KEGG:00500	Starch and sucrose metabolism	KEGG	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.017722932	1	1	1	1	1	1	1	1	1	1	0.027247147	1	0.008198718	1
+TF:M07725	Factor: GATAe; motif: NMGATAAS	TF	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.009970746	1	1	1	1	1	1	1	1	1	1	0.00150635	1	0.018435143	1
+TF:M02374	Factor: zen; motif: YTAATGA	TF	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.003302504	1	1	1	1	1	1	1	1	1	1	0.003302504	1	1	1
+TF:M02339	Factor: eve; motif: YTAATKA	TF	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.003302504	1	1	1	1	1	1	1	1	1	1	0.003302504	1	1	1
+HP:0040162	Orthokeratosis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.008137467	1	1	1	1	1	1	1	1	1	1	0.008137467	1	1	1
+HP:0003077	Hyperlipidemia	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.008137467	1	1	1	1	1	1	1	1	1	1	0.008137467	1	1	1
+HP:0032180	Abnormal circulating metabolite concentration	HP	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0.017238785	1	1	1	1	1	1	1	1	1	1	0.022413626	1	0.012063943	1
+HP:0100679	Lack of skin elasticity	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.022413626	1	1	1	1	1	1	1	1	1	1	0.022413626	1	1	1
+HP:0000962	Hyperkeratosis	HP	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0.035533256	1	1	1	1	1	1	1	1	1	1	0.022413626	0.048652885	1	1
+HP:0001944	Dehydration	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.022650973	1	1	1	1	1	1	1	1	1	1	0.022650973	1	1	1
+HP:0025092	Epidermal acanthosis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.022650973	1	1	1	1	1	1	1	1	1	1	0.022650973	1	1	1
+HP:0002024	Malabsorption	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.023203675	1	1	1	1	1	1	1	1	1	1	0.023203675	1	1	1
+HP:0007431	Congenital ichthyosiform erythroderma	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.023203675	1	1	1	1	1	1	1	1	1	1	0.023203675	1	1	1
+HP:0001019	Erythroderma	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.023203675	1	1	1	1	1	1	1	1	1	1	0.023203675	1	1	1
+HP:0010647	Abnormal elasticity of skin	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.027052876	1	1	1	1	1	1	1	1	1	1	0.027052876	1	1	1
+HP:0000958	Dry skin	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.034626735	1	1	1	1	1	1	1	1	1	1	0.034626735	1	1	1
+HP:0001945	Fever	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.045356538	1	1	1	1	1	1	1	1	1	1	0.045356538	1	1	1
+HP:0004333	Bone-marrow foam cells	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0003119	Abnormal circulating lipid concentration	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0001433	Hepatosplenomegaly	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0012337	Abnormal homeostasis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0001131	Corneal dystrophy	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0011032	Abnormality of fluid regulation	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.084710171	1	1	1	1	1	1	1	1	1	1	0.084710171	1	1	1
+HP:0010783	Erythema	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0100758	Gangrene	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0001922	Vacuolated lymphocytes	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0011368	Epidermal thickening	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0011277	Abnormality of the urinary system physiology	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0001072	Thickened skin	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0011124	Abnormality of epidermal morphology	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.089173161	1	1	1	1	1	1	1	1	1	1	0.089173161	1	1	1
+HP:0001744	Splenomegaly	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.097637029	1	1	1	1	1	1	1	1	1	1	0.097637029	1	1	1
+HP:0006597	Diaphragmatic paralysis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.100897545	1	1	1	1	1	1	1	1	1	1	0.100897545	1	1	1
+HP:0002205	Recurrent respiratory infections	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.102246584	1	1	1	1	1	1	1	1	1	1	0.102246584	1	1	1
+HP:0003040	Arthropathy	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.102246584	1	1	1	1	1	1	1	1	1	1	0.102246584	1	1	1
+HP:0010512	Adrenal calcification	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.102246584	1	1	1	1	1	1	1	1	1	1	0.102246584	1	1	1
+HP:0000982	Palmoplantar keratoderma	HP	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0.055767395	1	1	1	1	1	1	1	1	1	1	0.102246584	0.009288207	1	1
+HP:0025114	Hypergranulosis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.102246584	1	1	1	1	1	1	1	1	1	1	0.102246584	1	1	1
+HP:0100806	Sepsis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.102246584	1	1	1	1	1	1	1	1	1	1	0.102246584	1	1	1
+HP:0000989	Pruritus	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.112362409	1	1	1	1	1	1	1	1	1	1	0.112362409	1	1	1
+HP:0004395	Malnutrition	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.112788873	1	1	1	1	1	1	1	1	1	1	0.112788873	1	1	1
+HP:0012067	Glycopeptiduria	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.124590894	1	1	1	1	1	1	1	1	1	1	0.124590894	1	1	1
+HP:0000389	Chronic otitis media	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.124590894	1	1	1	1	1	1	1	1	1	1	0.124590894	1	1	1
+HP:0030528	Paracentral scotoma	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.124590894	1	1	1	1	1	1	1	1	1	1	0.124590894	1	1	1
+HP:0010766	Ectopic calcification	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.124751514	1	1	1	1	1	1	1	1	1	1	0.124751514	1	1	1
+HP:0004370	Abnormality of temperature regulation	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.126323738	1	1	1	1	1	1	1	1	1	1	0.126323738	1	1	1
+HP:0001939	Abnormality of metabolism/homeostasis	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.135457305	1	1	1	1	1	1	1	1	1	1	0.135457305	1	1	1
+HP:0003270	Abdominal distention	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.135457305	1	1	1	1	1	1	1	1	1	1	0.135457305	1	1	1
+HP:0011123	Inflammatory abnormality of the skin	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.140010759	1	1	1	1	1	1	1	1	1	1	0.140010759	1	1	1
+HP:0033354	Abnormal urine metabolite level	HP	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0.140010759	1	1	1	1	1	1	1	1	1	1	0.140010759	1	1	1
+GO:0007527	adult somatic muscle development	GO:BP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.002926691	1	1	1	1	1	1	1	1	1	1	1	0.002926691	1	1
+GO:0006941	striated muscle contraction	GO:BP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.019201325	1	1	1	1	1	1	1	1	1	1	1	0.019201325	1	1
+GO:0007525	somatic muscle development	GO:BP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.019671467	1	1	1	1	1	1	1	1	1	1	1	0.019671467	1	1
+GO:0031430	M band	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.000396061	1	1	1	1	1	1	1	1	1	1	1	0.000396061	1	1
+GO:0016528	sarcoplasm	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.000572957	1	1	1	1	1	1	1	1	1	1	1	0.000572957	1	1
+GO:0016529	sarcoplasmic reticulum	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.012766863	1	1	1	1	1	1	1	1	1	1	1	0.012766863	1	1
+GO:0005912	adherens junction	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.020681446	1	1	1	1	1	1	1	1	1	1	1	0.020681446	1	1
+GO:0005859	muscle myosin complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027653319	1	1	1	1	1	1	1	1	1	1	1	0.027653319	1	1
+GO:0030314	junctional membrane complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027653319	1	1	1	1	1	1	1	1	1	1	1	0.027653319	1	1
+GO:0005911	cell-cell junction	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027653319	1	1	1	1	1	1	1	1	1	1	1	0.027653319	1	1
+GO:0005899	insulin receptor complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027653319	1	1	1	1	1	1	1	1	1	1	1	0.027653319	1	1
+GO:0071797	LUBAC complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027653319	1	1	1	1	1	1	1	1	1	1	1	0.027653319	1	1
+GO:0005925	focal adhesion	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.051314114	1	1	1	1	1	1	1	1	1	1	1	0.051314114	1	1
+GO:0106083	nuclear membrane protein complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.071251319	1	1	1	1	1	1	1	1	1	1	1	0.071251319	1	1
+GO:0034993	meiotic nuclear membrane microtubule tethering complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.071251319	1	1	1	1	1	1	1	1	1	1	1	0.071251319	1	1
+GO:0030315	T-tubule	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.071251319	1	1	1	1	1	1	1	1	1	1	1	0.071251319	1	1
+GO:0034992	microtubule organizing center attachment site	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.071251319	1	1	1	1	1	1	1	1	1	1	1	0.071251319	1	1
+GO:0106094	nuclear membrane microtubule tethering complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.071251319	1	1	1	1	1	1	1	1	1	1	1	0.071251319	1	1
+GO:0005640	nuclear outer membrane	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.090620154	1	1	1	1	1	1	1	1	1	1	1	0.090620154	1	1
+GO:0016460	myosin II complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.103925469	1	1	1	1	1	1	1	1	1	1	1	0.103925469	1	1
+GO:0033017	sarcoplasmic reticulum membrane	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.103925469	1	1	1	1	1	1	1	1	1	1	1	0.103925469	1	1
+GO:0005853	eukaryotic translation elongation factor 1 complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.103925469	1	1	1	1	1	1	1	1	1	1	1	0.103925469	1	1
+GO:0005915	zonula adherens	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.119583237	1	1	1	1	1	1	1	1	1	1	1	0.119583237	1	1
+GO:0009331	glycerol-3-phosphate dehydrogenase complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.119583237	1	1	1	1	1	1	1	1	1	1	1	0.119583237	1	1
+GO:0043296	apical junction complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.12584883	1	1	1	1	1	1	1	1	1	1	1	0.12584883	1	1
+GO:0030285	integral component of synaptic vesicle membrane	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.131540413	1	1	1	1	1	1	1	1	1	1	1	0.131540413	1	1
+GO:0098563	intrinsic component of synaptic vesicle membrane	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.131540413	1	1	1	1	1	1	1	1	1	1	1	0.131540413	1	1
+GO:0045211	postsynaptic membrane	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.140353408	1	1	1	1	1	1	1	1	1	1	1	0.140353408	1	1
+GO:0005891	voltage-gated calcium channel complex	GO:CC	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.144657676	1	1	1	1	1	1	1	1	1	1	1	0.144657676	1	1
+KEGG:04213	Longevity regulating pathway - multiple species	KEGG	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.100464058	1	1	1	1	1	1	1	1	1	1	1	0.100464058	1	1
+HP:0012398	Peripheral edema	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.002470577	1	1	1	1	1	1	1	1	1	1	1	0.002470577	1	1
+HP:0031295	Left atrial enlargement	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.002470577	1	1	1	1	1	1	1	1	1	1	1	0.002470577	1	1
+HP:0003198	Myopathy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.002958971	1	1	1	1	1	1	1	1	1	1	1	0.002958971	1	1
+HP:0025579	Abnormal left atrium morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.00456258	1	1	1	1	1	1	1	1	1	1	1	0.00456258	1	1
+HP:0030718	Right atrial enlargement	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.009288207	1	1	1	1	1	1	1	1	1	1	1	0.009288207	1	1
+HP:0025580	Abnormal right atrium morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.009288207	1	1	1	1	1	1	1	1	1	1	1	0.009288207	1	1
+HP:0003049	Ulnar deviation of the wrist	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.019670382	1	1	1	1	1	1	1	1	1	1	1	0.019670382	1	1
+HP:0012764	Orthopnea	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.019670382	1	1	1	1	1	1	1	1	1	1	1	0.019670382	1	1
+HP:0001762	Talipes equinovarus	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.019670382	1	1	1	1	1	1	1	1	1	1	1	0.019670382	1	1
+HP:0100598	Pulmonary edema	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.021598108	1	1	1	1	1	1	1	1	1	1	1	0.021598108	1	1
+HP:0100303	Muscle fiber cytoplasmatic inclusion bodies	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.021598108	1	1	1	1	1	1	1	1	1	1	1	0.021598108	1	1
+HP:0008368	Tarsal synostosis	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.027912076	1	1	1	1	1	1	1	1	1	1	1	0.027912076	1	1
+HP:0040081	Abnormal circulating creatine kinase concentration	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.030317018	1	1	1	1	1	1	1	1	1	1	1	0.030317018	1	1
+HP:0001712	Left ventricular hypertrophy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.030317018	1	1	1	1	1	1	1	1	1	1	1	0.030317018	1	1
+HP:0003236	Elevated serum creatine kinase	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.030317018	1	1	1	1	1	1	1	1	1	1	1	0.030317018	1	1
+HP:0011021	Abnormality of circulating enzyme level	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.030642936	1	1	1	1	1	1	1	1	1	1	1	0.030642936	1	1
+HP:0001714	Ventricular hypertrophy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.032679976	1	1	1	1	1	1	1	1	1	1	1	0.032679976	1	1
+HP:0001638	Cardiomyopathy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.032679976	1	1	1	1	1	1	1	1	1	1	1	0.032679976	1	1
+HP:0001883	Talipes	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.032679976	1	1	1	1	1	1	1	1	1	1	1	0.032679976	1	1
+HP:0000275	Narrow face	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.034239951	1	1	1	1	1	1	1	1	1	1	1	0.034239951	1	1
+HP:0005656	Positional foot deformity	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.034239951	1	1	1	1	1	1	1	1	1	1	1	0.034239951	1	1
+HP:0009138	Synostosis involving bones of the lower limbs	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.034239951	1	1	1	1	1	1	1	1	1	1	1	0.034239951	1	1
+HP:0009140	Synostosis involving bones of the feet	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.034239951	1	1	1	1	1	1	1	1	1	1	1	0.034239951	1	1
+HP:0001711	Abnormal left ventricle morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.034308825	1	1	1	1	1	1	1	1	1	1	1	0.034308825	1	1
+HP:0009465	Ulnar deviation of finger	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0100299	Muscle fiber inclusion bodies	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0002068	Neuromuscular dysphagia	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0005144	Ventricular septal hypertrophy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0003722	Neck flexor weakness	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0030950	Pulmonary venous hypertension	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0003803	Type 1 muscle fiber predominance	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.035809225	1	1	1	1	1	1	1	1	1	1	1	0.035809225	1	1
+HP:0001533	Slender build	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.038561941	1	1	1	1	1	1	1	1	1	1	1	0.038561941	1	1
+HP:0003457	EMG abnormality	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.041535042	1	1	1	1	1	1	1	1	1	1	1	0.041535042	1	1
+HP:0033684	Abnormal muscle fiber-type distribution	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.042117005	1	1	1	1	1	1	1	1	1	1	1	0.042117005	1	1
+HP:0011675	Arrhythmia	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04215636	1	1	1	1	1	1	1	1	1	1	1	0.04215636	1	1
+HP:0006109	Absent phalangeal crease	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04215636	1	1	1	1	1	1	1	1	1	1	1	0.04215636	1	1
+HP:0001637	Abnormal myocardium morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04215636	1	1	1	1	1	1	1	1	1	1	1	0.04215636	1	1
+HP:0000274	Small face	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04215636	1	1	1	1	1	1	1	1	1	1	1	0.04215636	1	1
+HP:0010557	Overlapping fingers	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.042319494	1	1	1	1	1	1	1	1	1	1	1	0.042319494	1	1
+HP:0005115	Supraventricular arrhythmia	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.048532528	1	1	1	1	1	1	1	1	1	1	1	0.048532528	1	1
+HP:0100266	Synostosis of carpals/tarsals	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04900658	1	1	1	1	1	1	1	1	1	1	1	0.04900658	1	1
+HP:0003184	Decreased hip abduction	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.04985026	1	1	1	1	1	1	1	1	1	1	1	0.04985026	1	1
+HP:0030956	Abnormality of cardiovascular system electrophysiology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.065826305	1	1	1	1	1	1	1	1	1	1	1	0.065826305	1	1
+HP:0001907	Thromboembolism	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.065826305	1	1	1	1	1	1	1	1	1	1	1	0.065826305	1	1
+HP:0001193	Ulnar deviation of the hand or of fingers of the hand	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.065826305	1	1	1	1	1	1	1	1	1	1	1	0.065826305	1	1
+HP:0001649	Tachycardia	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.069226659	1	1	1	1	1	1	1	1	1	1	1	0.069226659	1	1
+HP:0003273	Hip contracture	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.069226659	1	1	1	1	1	1	1	1	1	1	1	0.069226659	1	1
+HP:0001611	Nasal speech	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.072820389	1	1	1	1	1	1	1	1	1	1	1	0.072820389	1	1
+HP:0000098	Tall stature	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.072820389	1	1	1	1	1	1	1	1	1	1	1	0.072820389	1	1
+HP:0009124	Abnormal adipose tissue morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.080391022	1	1	1	1	1	1	1	1	1	1	1	0.080391022	1	1
+HP:0006143	Abnormal finger flexion creases	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.080391022	1	1	1	1	1	1	1	1	1	1	1	0.080391022	1	1
+HP:0002792	Reduced vital capacity	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.080391022	1	1	1	1	1	1	1	1	1	1	1	0.080391022	1	1
+HP:0001699	Sudden death	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.080391022	1	1	1	1	1	1	1	1	1	1	1	0.080391022	1	1
+HP:0031951	Nocturnal seizures	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.084734017	1	1	1	1	1	1	1	1	1	1	1	0.084734017	1	1
+HP:0001874	Abnormality of neutrophils	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.08676457	1	1	1	1	1	1	1	1	1	1	1	0.08676457	1	1
+HP:0001623	Breech presentation	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.091817233	1	1	1	1	1	1	1	1	1	1	1	0.091817233	1	1
+HP:0011193	EEG with focal spikes	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.093595326	1	1	1	1	1	1	1	1	1	1	1	0.093595326	1	1
+HP:0000006	Autosomal dominant inheritance	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.093653728	1	1	1	1	1	1	1	1	1	1	1	0.093653728	1	1
+HP:0003458	EMG: myopathic abnormalities	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.097043289	1	1	1	1	1	1	1	1	1	1	1	0.097043289	1	1
+HP:0001279	Syncope	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.099835918	1	1	1	1	1	1	1	1	1	1	1	0.099835918	1	1
+HP:0030200	Fatiguable weakness of proximal limb muscles	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.115316936	1	1	1	1	1	1	1	1	1	1	1	0.115316936	1	1
+HP:0009055	Generalized limb muscle atrophy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.115316936	1	1	1	1	1	1	1	1	1	1	1	0.115316936	1	1
+HP:0001345	Psychotic mentation	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.12699545	1	1	1	1	1	1	1	1	1	1	1	0.12699545	1	1
+HP:0009058	Increased muscle lipid content	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.127306541	1	1	1	1	1	1	1	1	1	1	1	0.127306541	1	1
+HP:0007110	Central hypoventilation	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.127306541	1	1	1	1	1	1	1	1	1	1	1	0.127306541	1	1
+HP:0008800	Limited hip movement	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.129624174	1	1	1	1	1	1	1	1	1	1	1	0.129624174	1	1
+HP:0012643	Foveal hypopigmentation	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0030499	Macular drusen	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0030226	Abnormal muscle fiber myotilin	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0025574	Macular hemorrhage	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0031319	Cardiomyocyte hypertrophy	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0012496	Reduced maximal inspiratory pressure	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0011706	Second degree atrioventricular block	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0005612	Arthrogryposis-like hand anomaly	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0005684	Distal arthrogryposis	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0011170	Generalized myoclonic-atonic seizure	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0011025	Abnormal cardiovascular system physiology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0002460	Distal muscle weakness	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0006794	Loss of ability to walk in first decade	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0001911	Abnormal granulocyte morphology	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+HP:0012266	T-wave alternans	HP	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0.139077046	1	1	1	1	1	1	1	1	1	1	1	0.139077046	1	1
+GO:0047834	D-threo-aldose 1-dehydrogenase activity	GO:MF	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.00461811	1	1	1	1	1	1	1	1	1	1	1	1	0.00461811	1
+GO:0080030	methyl indole-3-acetate esterase activity	GO:MF	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.012779794	1	1	1	1	1	1	1	1	1	1	1	1	0.012779794	1
+GO:0016620	"oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor"	GO:MF	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.026353556	1	1	1	1	1	1	1	1	1	1	1	1	0.026353556	1
+GO:0044262	cellular carbohydrate metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1.61886E-06	1	1	1	1	1	1	1	1	1	1	1	1	1.61886E-06	1
+GO:1901575	organic substance catabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.00021865	1	1	1	1	1	1	1	1	1	1	1	1	0.00021865	1
+GO:0005977	glycogen metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000263017	1	1	1	1	1	1	1	1	1	1	1	1	0.000263017	1
+GO:0006073	cellular glucan metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000263017	1	1	1	1	1	1	1	1	1	1	1	1	0.000263017	1
+GO:0006112	energy reserve metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000263017	1	1	1	1	1	1	1	1	1	1	1	1	0.000263017	1
+GO:0044042	glucan metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000263017	1	1	1	1	1	1	1	1	1	1	1	1	0.000263017	1
+GO:0005996	monosaccharide metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000566331	1	1	1	1	1	1	1	1	1	1	1	1	0.000566331	1
+GO:0044264	cellular polysaccharide metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.00119827	1	1	1	1	1	1	1	1	1	1	1	1	0.00119827	1
+GO:0005976	polysaccharide metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.001604381	1	1	1	1	1	1	1	1	1	1	1	1	0.001604381	1
+GO:0009056	catabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.003750683	1	1	1	1	1	1	1	1	1	1	1	1	0.003750683	1
+GO:0051156	glucose 6-phosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.016863617	1	1	1	1	1	1	1	1	1	1	1	1	0.016863617	1
+GO:0019637	organophosphate metabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.032128284	1	1	1	1	1	1	1	1	1	1	1	1	0.032128284	1
+GO:0016052	carbohydrate catabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.033998083	1	1	1	1	1	1	1	1	1	1	1	1	0.033998083	1
+GO:0044275	cellular carbohydrate catabolic process	GO:BP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.045230475	1	1	1	1	1	1	1	1	1	1	1	1	0.045230475	1
+KEGG:00030	Pentose phosphate pathway	KEGG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.027986736	1	1	1	1	1	1	1	1	1	1	1	1	0.027986736	1
+KEGG:00061	Fatty acid biosynthesis	KEGG	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.049770309	1	1	1	1	1	1	1	1	1	1	1	1	0.049770309	1
+TF:M07733	Factor: srp; motif: NWGATAASN	TF	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.000265154	1	1	1	1	1	1	1	1	1	1	1	1	0.000265154	1
+TF:M07728	Factor: grn; motif: WGATAAGN	TF	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.028322846	1	1	1	1	1	1	1	1	1	1	1	1	0.028322846	1
+HP:0033107	Abnormal circulating proteinogenic amino acid concentration	HP	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0.131859949	1	1	1	1	1	1	1	1	1	1	1	1	0.131859949	1
+GO:0004676	3-phosphoinositide-dependent protein kinase activity	GO:MF	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0.049442584	1	1	1	1	1	1	1	1	1	1	1	1	1	0.049442584
