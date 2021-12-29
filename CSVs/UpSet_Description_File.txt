@@ -20,7 +20,7 @@
 		{ "type": "float", "index": 26, "name": "Bai_F_head_up_adj_pvalue"},
 		{ "type": "float", "index": 27, "name": "Bai_M_abd_down_adj_pvalue"},
 		{ "type": "float", "index": 28, "name": "Bai_M_abd_up_adj_pvalue"},
-		{ "type": "float", "index": 39, "name": "Bai_M_head_down_adj_pvalue"},
+		{ "type": "float", "index": 29, "name": "Bai_M_head_down_adj_pvalue"},
 		{ "type": "float", "index": 30, "name": "Bai_M_head_up_adj_pvalue"}
 		
 	],
