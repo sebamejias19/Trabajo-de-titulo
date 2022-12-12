@@ -1,0 +1,14 @@
+{
+	"file": "...",
+	"name": "GO:terms enriched in DEG sets",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "GO_term" }
+		
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 18 }
+	]
+}
