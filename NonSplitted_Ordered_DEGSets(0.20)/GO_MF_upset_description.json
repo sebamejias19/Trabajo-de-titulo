@@ -1,6 +1,6 @@
 {
-	"file": "...",
-	"name": "GO_MF terms enriched in complete DEG sets",
+	"file": "https://raw.githubusercontent.com/sebamejias19/Trabajo-de-titulo/main/NonSplitted_Ordered_DEGSets(0.20)/GO_MF_upset_binary.txt",
+	"name": "GO_MF terms enriched in complete DEG sets, ordered by abs(log2FC)",
 	"header": 0,
 	"separator": "\t",
 	"skip": 0,
