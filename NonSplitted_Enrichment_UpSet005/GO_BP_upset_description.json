@@ -1,5 +1,5 @@
 {
-	"file": "...",
+	"file": "https://raw.githubusercontent.com/sebamejias19/Trabajo-de-titulo/main/NonSplitted_Enrichment_UpSet005/GO_BP_upset_binary.txt",
 	"name": "GO_BP terms enriched in complete DEG sets",
 	"header": 0,
 	"separator": "\t",
