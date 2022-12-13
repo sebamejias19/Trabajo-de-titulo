@@ -1,0 +1,424 @@
+term_id	term_name	Dm_F_wh_L	Dm_F_ov	Dp_F_ab	Dp_F_hd	Dp_M_ab	Dp_M_hd	Dm_F_wh_D	Dm_M_ts	Af_F_wh
+GO:0015291	secondary active transmembrane transporter activity	1	0	0	0	0	0	0	0	0
+GO:0016830	carbon-carbon lyase activity	1	0	0	0	0	0	0	0	0
+GO:0003904	deoxyribodipyrimidine photo-lyase activity	1	0	0	0	0	0	0	0	0
+GO:0003913	DNA photolyase activity	1	0	0	0	0	0	0	0	0
+GO:0008509	anion transmembrane transporter activity	1	0	0	0	0	0	0	0	0
+GO:0015293	symporter activity	1	0	0	0	0	0	0	0	0
+GO:0140640	catalytic activity, acting on a nucleic acid	1	0	0	0	0	0	0	0	0
+GO:0003779	actin binding	0	0	1	0	1	0	1	0	0
+GO:0008092	cytoskeletal protein binding	0	0	1	0	1	0	0	0	0
+GO:0051371	muscle alpha-actinin binding	0	0	1	0	1	0	1	0	0
+GO:0042805	actinin binding	0	0	1	0	1	0	1	0	0
+GO:0051393	alpha-actinin binding	0	0	1	0	1	0	1	0	0
+GO:0005509	calcium ion binding	0	0	1	0	1	0	1	0	0
+GO:0051015	actin filament binding	0	0	1	0	1	0	0	0	0
+GO:0005523	tropomyosin binding	0	0	1	0	1	0	0	0	0
+GO:0008307	structural constituent of muscle	0	0	1	0	1	0	1	0	0
+GO:0004687	myosin light chain kinase activity	0	0	1	0	1	0	0	0	0
+GO:0046872	metal ion binding	0	0	1	1	1	1	0	0	0
+GO:0004449	isocitrate dehydrogenase (NAD+) activity	0	0	1	0	1	0	0	0	0
+GO:0043169	cation binding	0	0	1	1	1	1	0	0	0
+GO:0004448	isocitrate dehydrogenase [NAD(P)+] activity	0	0	1	0	1	0	0	0	0
+GO:0004672	protein kinase activity	0	0	1	0	1	0	0	0	0
+GO:0005102	signaling receptor binding	0	0	1	0	0	0	0	0	0
+GO:0008898	S-adenosylmethionine-homocysteine S-methyltransferase activity	0	0	1	0	0	0	0	0	0
+GO:0016301	kinase activity	0	0	1	0	1	0	0	0	0
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	0	0	1	0	1	0	0	0	0
+GO:0097493	structural molecule activity conferring elasticity	0	0	1	0	1	0	0	0	0
+GO:0043167	ion binding	0	0	1	1	1	1	0	0	0
+GO:0140660	cytoskeletal motor activator activity	0	0	1	0	1	0	0	0	0
+GO:0140659	cytoskeletal motor regulator activity	0	0	1	0	1	0	0	0	0
+GO:0044877	protein-containing complex binding	0	0	1	0	0	0	0	1	0
+GO:0004667	prostaglandin-D synthase activity	0	0	1	0	0	0	0	0	0
+GO:0015079	potassium ion transmembrane transporter activity	0	0	1	0	1	0	0	0	0
+GO:0005201	extracellular matrix structural constituent	0	0	1	0	0	0	0	0	0
+GO:0097027	ubiquitin-protein transferase activator activity	0	0	1	0	0	0	0	0	0
+GO:1990757	ubiquitin ligase activator activity	0	0	1	0	0	0	0	0	0
+GO:0003735	structural constituent of ribosome	0	0	0	1	0	0	0	0	0
+GO:0003824	catalytic activity	0	0	0	1	1	1	0	1	0
+GO:0016491	oxidoreductase activity	0	0	0	1	1	1	0	0	0
+GO:0016645	oxidoreductase activity, acting on the CH-NH group of donors	0	0	0	1	0	1	0	0	0
+GO:0005198	structural molecule activity	0	0	0	1	1	0	0	0	0
+GO:0004488	methylenetetrahydrofolate dehydrogenase (NADP+) activity	0	0	0	1	0	1	0	0	0
+GO:0004486	methylenetetrahydrofolate dehydrogenase [NAD(P)+] activity	0	0	0	1	0	1	0	0	0
+GO:0019238	cyclohydrolase activity	0	0	0	1	0	1	0	0	0
+GO:0016646	oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	0	0	0	1	0	1	0	0	0
+GO:0004477	methenyltetrahydrofolate cyclohydrolase activity	0	0	0	1	0	1	0	0	0
+GO:0020037	heme binding	0	0	0	1	1	1	0	0	0
+GO:0046906	tetrapyrrole binding	0	0	0	1	1	1	0	0	0
+GO:0043022	ribosome binding	0	0	0	1	0	0	0	0	0
+GO:0004497	monooxygenase activity	0	0	0	1	1	1	0	0	0
+GO:0003988	acetyl-CoA C-acyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0005506	iron ion binding	0	0	0	1	1	1	0	0	0
+GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	0	0	0	1	1	1	0	0	0
+GO:0016614	oxidoreductase activity, acting on CH-OH group of donors	0	0	0	1	1	1	0	0	0
+GO:0004487	methylenetetrahydrofolate dehydrogenase (NAD+) activity	0	0	0	1	0	1	0	0	0
+GO:0050660	flavin adenine dinucleotide binding	0	0	0	1	0	1	0	0	0
+GO:0003746	translation elongation factor activity	0	0	0	1	0	0	0	0	0
+GO:0016874	ligase activity	0	0	0	1	0	1	0	0	0
+GO:0047718	indanol dehydrogenase activity	0	0	0	1	0	1	0	0	0
+GO:0016408	C-acyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0019843	rRNA binding	0	0	0	1	0	0	0	0	0
+GO:0003985	acetyl-CoA C-acetyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0004805	trehalose-phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0016879	ligase activity, forming carbon-nitrogen bonds	0	0	0	1	0	1	0	0	0
+GO:0008447	L-ascorbate oxidase activity	0	0	0	1	0	0	0	0	0
+GO:0016453	C-acetyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0016885	ligase activity, forming carbon-carbon bonds	0	0	0	1	0	1	0	0	0
+GO:0016742	hydroxymethyl-, formyl- and related transferase activity	0	0	0	1	0	1	0	0	0
+GO:0016814	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines	0	0	0	1	0	0	0	0	0
+GO:0099530	G protein-coupled receptor activity involved in regulation of postsynaptic membrane potential	0	0	0	1	0	0	0	0	0
+GO:0043021	ribonucleoprotein complex binding	0	0	0	1	0	0	0	0	0
+GO:0036094	small molecule binding	0	0	0	1	0	0	0	0	0
+GO:0016746	acyltransferase activity	0	0	0	1	1	0	0	0	0
+GO:0099583	neurotransmitter receptor activity involved in regulation of postsynaptic cytosolic calcium ion concentration	0	0	0	1	0	0	0	0	0
+GO:0051119	sugar transmembrane transporter activity	0	0	0	1	0	0	0	1	0
+GO:0016747	acyltransferase activity, transferring groups other than amino-acyl groups	0	0	0	1	0	0	0	0	0
+GO:0015144	carbohydrate transmembrane transporter activity	0	0	0	1	0	0	0	1	0
+GO:0042301	phosphate ion binding	0	0	0	1	0	0	0	0	0
+GO:0047402	protein-glucosylgalactosylhydroxylysine glucosidase activity	0	0	0	1	0	0	0	0	0
+GO:0019203	carbohydrate phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0004032	alditol:NADP+ 1-oxidoreductase activity	0	0	0	1	0	1	0	0	0
+GO:0004329	formate-tetrahydrofolate ligase activity	0	0	0	1	0	1	0	0	0
+GO:0070905	serine binding	0	0	0	1	0	1	0	0	0
+GO:0004372	glycine hydroxymethyltransferase activity	0	0	0	1	0	1	0	0	0
+GO:0016616	oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	0	0	0	1	1	1	0	0	0
+GO:0003995	acyl-CoA dehydrogenase activity	0	0	0	1	0	0	0	0	0
+GO:0052890	oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor	0	0	0	1	0	0	0	0	0
+GO:0008241	peptidyl-dipeptidase activity	0	0	0	1	0	1	0	0	0
+GO:0043168	anion binding	0	0	0	1	0	0	0	0	0
+GO:0120241	2-iminobutanoate/2-iminopropanoate deaminase	0	0	0	1	1	1	0	0	0
+GO:0120242	2-iminobutanoate deaminase activity	0	0	0	1	1	1	0	0	0
+GO:0004435	phosphatidylinositol phospholipase C activity	0	0	0	1	0	0	0	0	0
+GO:0004629	phospholipase C activity	0	0	0	1	0	0	0	0	0
+GO:0016903	oxidoreductase activity, acting on the aldehyde or oxo group of donors	0	0	0	1	0	1	0	0	0
+GO:0001640	adenylate cyclase inhibiting G protein-coupled glutamate receptor activity	0	0	0	1	0	0	0	0	0
+GO:0098988	G protein-coupled glutamate receptor activity	0	0	0	1	0	0	0	0	0
+GO:0042577	lipid phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0046914	transition metal ion binding	0	0	0	1	0	0	0	1	0
+GO:0008480	sarcosine dehydrogenase activity	0	0	0	1	0	1	0	0	0
+GO:0019842	vitamin binding	0	0	0	1	1	1	0	0	0
+GO:0016840	carbon-nitrogen lyase activity	0	0	0	1	0	0	0	0	0
+GO:0016829	lyase activity	0	0	0	1	0	0	0	0	0
+GO:0016810	hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	0	0	0	1	0	0	0	0	0
+GO:0004499	N,N-dimethylaniline monooxygenase activity	0	0	0	1	0	1	0	0	0
+GO:0016682	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	0	0	0	1	1	0	0	0	0
+GO:0004613	phosphoenolpyruvate carboxykinase (GTP) activity	0	0	0	1	0	0	0	0	0
+GO:0004638	phosphoribosylaminoimidazole carboxylase activity	0	0	0	1	0	1	0	0	0
+GO:0004611	phosphoenolpyruvate carboxykinase activity	0	0	0	1	0	0	0	0	0
+GO:0050897	cobalt ion binding	0	0	0	1	0	1	0	0	0
+GO:0004760	serine-pyruvate transaminase activity	0	0	0	1	0	1	0	0	0
+GO:0015645	fatty acid ligase activity	0	0	0	1	0	1	0	1	0
+GO:0043727	5-amino-4-imidazole carboxylate lyase activity	0	0	0	1	0	1	0	0	0
+GO:0046997	oxidoreductase activity, acting on the CH-NH group of donors, flavin as acceptor	0	0	0	1	0	1	0	0	0
+GO:0008195	phosphatidate phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0016405	CoA-ligase activity	0	0	0	1	0	1	0	1	0
+GO:0004639	phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	0	0	0	1	0	1	0	0	0
+GO:0005118	sevenless binding	0	0	0	1	0	0	0	0	0
+GO:0004565	beta-galactosidase activity	0	0	0	1	0	0	0	0	0
+GO:0008336	gamma-butyrobetaine dioxygenase activity	0	0	0	1	0	0	0	0	0
+GO:0003973	(S)-2-hydroxy-acid oxidase activity	0	0	0	1	0	1	0	0	0
+GO:0030378	serine racemase activity	0	0	0	1	0	0	0	0	0
+GO:0036361	racemase activity, acting on amino acids and derivatives	0	0	0	1	0	0	0	0	0
+GO:0004553	hydrolase activity, hydrolyzing O-glycosyl compounds	0	0	0	1	1	1	0	1	0
+GO:0016841	ammonia-lyase activity	0	0	0	1	0	0	0	0	0
+GO:0016855	racemase and epimerase activity, acting on amino acids and derivatives	0	0	0	1	0	0	0	0	0
+GO:0003941	L-serine ammonia-lyase activity	0	0	0	1	0	0	0	0	0
+GO:0047975	guanosine phosphorylase activity	0	0	0	1	0	0	0	0	0
+GO:0004794	L-threonine ammonia-lyase activity	0	0	0	1	0	0	0	0	0
+GO:0003989	acetyl-CoA carboxylase activity	0	0	0	1	0	1	0	0	0
+GO:0047661	amino-acid racemase activity	0	0	0	1	0	0	0	0	0
+GO:0016724	oxidoreductase activity, acting on metal ions, oxygen as acceptor	0	0	0	1	0	0	0	0	0
+GO:0004322	ferroxidase activity	0	0	0	1	0	0	0	0	0
+GO:0047015	3-hydroxy-2-methylbutyryl-CoA dehydrogenase activity	0	0	0	1	0	0	0	0	0
+GO:0106282	isoursodeoxycholate 7-beta-dehydrogenase (NAD+) activity	0	0	0	1	0	0	0	0	0
+GO:0106283	ursodeoxycholate 7-beta-dehydrogenase (NAD+) activity	0	0	0	1	0	0	0	0	0
+GO:0035410	dihydrotestosterone 17-beta-dehydrogenase activity	0	0	0	1	0	0	0	0	0
+GO:0047022	7-beta-hydroxysteroid dehydrogenase (NADP+) activity	0	0	0	1	0	0	0	0	0
+GO:0000166	nucleotide binding	0	0	0	1	0	0	0	0	0
+GO:1901265	nucleoside phosphate binding	0	0	0	1	0	0	0	0	0
+GO:0018454	acetoacetyl-CoA reductase activity	0	0	0	1	0	0	0	0	0
+GO:0004642	phosphoribosylformylglycinamidine synthase activity	0	0	0	1	0	0	0	0	0
+GO:0016878	acid-thiol ligase activity	0	0	0	1	0	1	0	1	0
+GO:0016740	transferase activity	0	0	0	1	0	0	0	0	0
+GO:0016831	carboxy-lyase activity	0	0	0	1	0	0	0	0	0
+GO:0016757	glycosyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0008108	UDP-glucose:hexose-1-phosphate uridylyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0018549	methanethiol oxidase activity	0	0	0	1	0	0	0	0	0
+GO:0008430	selenium binding	0	0	0	1	0	0	0	0	0
+GO:0017172	cysteine dioxygenase activity	0	0	0	1	0	1	0	0	0
+GO:0003937	IMP cyclohydrolase activity	0	0	0	1	0	0	0	0	0
+GO:0004303	estradiol 17-beta-dehydrogenase activity	0	0	0	1	0	1	0	0	0
+GO:0004643	phosphoribosylaminoimidazolecarboxamide formyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0008453	alanine-glyoxylate transaminase activity	0	0	0	1	0	1	0	0	0
+GO:0005319	lipid transporter activity	0	0	0	1	0	1	0	0	0
+GO:0004252	serine-type endopeptidase activity	0	0	0	1	1	0	1	1	0
+GO:0030272	5-formyltetrahydrofolate cyclo-ligase activity	0	0	0	1	0	1	0	0	0
+GO:0004349	glutamate 5-kinase activity	0	0	0	1	0	1	0	0	0
+GO:0004350	glutamate-5-semialdehyde dehydrogenase activity	0	0	0	1	0	1	0	0	0
+GO:0051990	(R)-2-hydroxyglutarate dehydrogenase activity	0	0	0	1	0	0	0	0	0
+GO:0033764	steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	0	0	0	1	0	1	0	0	0
+GO:0017084	delta1-pyrroline-5-carboxylate synthetase activity	0	0	0	1	0	1	0	0	0
+GO:0008774	acetaldehyde dehydrogenase (acetylating) activity	0	0	0	1	0	1	0	0	0
+GO:0036424	L-phosphoserine phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0022852	glycine-gated chloride ion channel activity	0	0	0	1	0	0	0	0	0
+GO:0019150	D-ribulokinase activity	0	0	0	1	0	1	0	0	0
+GO:0015925	galactosidase activity	0	0	0	1	0	0	0	0	0
+GO:0016407	acetyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0016627	oxidoreductase activity, acting on the CH-CH group of donors	0	0	0	1	0	0	0	0	0
+GO:0015020	glucuronosyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0008236	serine-type peptidase activity	0	0	0	1	1	0	1	1	0
+GO:0003825	alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity	0	0	0	1	0	0	0	0	0
+GO:0102485	obsolete dATP phosphohydrolase activity	0	0	0	1	0	0	0	0	0
+GO:0016298	lipase activity	0	0	0	1	1	1	0	1	0
+GO:0016229	steroid dehydrogenase activity	0	0	0	1	0	1	0	0	0
+GO:0016212	kynurenine-oxoglutarate transaminase activity	0	0	0	1	0	0	0	0	0
+GO:0017118	lipoyltransferase activity	0	0	0	1	0	0	0	0	0
+GO:0045134	UDP phosphatase activity	0	0	0	1	0	0	0	0	0
+GO:0036137	kynurenine aminotransferase activity	0	0	0	1	0	0	0	0	0
+GO:0047804	cysteine-S-conjugate beta-lyase activity	0	0	0	1	0	0	0	0	0
+GO:0008106	alcohol dehydrogenase (NADP+) activity	0	0	0	1	0	1	0	0	0
+GO:0047315	kynurenine-glyoxylate transaminase activity	0	0	0	1	0	0	0	0	0
+GO:0004732	pyridoxal oxidase activity	0	0	0	1	0	1	0	0	0
+GO:0004736	pyruvate carboxylase activity	0	0	0	1	0	1	0	0	0
+GO:0072555	17-beta-ketosteroid reductase activity	0	0	0	1	0	0	0	0	0
+GO:0072582	17-beta-hydroxysteroid dehydrogenase (NADP+) activity	0	0	0	1	0	0	0	0	0
+GO:0009374	biotin binding	0	0	0	1	0	1	0	0	0
+GO:0050633	acetyl-CoA C-myristoyltransferase activity	0	0	0	1	0	1	0	0	0
+GO:0050632	propionyl-CoA C2-trimethyltridecanoyltransferase activity	0	0	0	1	0	1	0	0	0
+GO:0033814	propanoyl-CoA C-acyltransferase activity	0	0	0	1	0	1	0	0	0
+GO:0004033	aldo-keto reductase (NADP) activity	0	0	0	1	0	1	0	0	0
+GO:0019200	carbohydrate kinase activity	0	0	0	1	0	1	0	0	0
+GO:0005516	calmodulin binding	0	0	0	1	0	0	0	0	0
+GO:0016798	hydrolase activity, acting on glycosyl bonds	0	0	0	0	1	1	0	1	0
+GO:0017171	serine hydrolase activity	0	0	0	0	1	1	1	1	0
+GO:0008239	dipeptidyl-peptidase activity	0	0	0	0	1	0	0	0	0
+GO:0016787	hydrolase activity	0	0	0	0	1	1	0	1	0
+GO:0008233	peptidase activity	0	0	0	0	1	1	0	1	0
+GO:0046912	acyltransferase activity, acyl groups converted into alkyl on transfer	0	0	0	0	1	0	0	0	0
+GO:0015277	kainate selective glutamate receptor activity	0	0	0	0	1	0	0	0	0
+GO:0004035	alkaline phosphatase activity	0	0	0	0	1	0	0	0	0
+GO:0032036	myosin heavy chain binding	0	0	0	0	1	0	0	0	0
+GO:0016215	acyl-CoA desaturase activity	0	0	0	0	1	0	0	0	0
+GO:0004768	stearoyl-CoA 9-desaturase activity	0	0	0	0	1	0	0	0	0
+GO:0004134	4-alpha-glucanotransferase activity	0	0	0	0	1	0	0	0	0
+GO:0004175	endopeptidase activity	0	0	0	0	1	1	1	1	0
+GO:0016717	oxidoreductase activity, acting on paired donors, with oxidation of a pair of donors resulting in the reduction of molecular oxygen to two molecules of water	0	0	0	0	1	0	0	0	0
+GO:0070891	lipoteichoic acid binding	0	0	0	0	1	0	0	0	0
+GO:0005267	potassium channel activity	0	0	0	0	1	0	0	0	0
+GO:0030882	lipid antigen binding	0	0	0	0	1	0	0	0	0
+GO:0004097	catechol oxidase activity	0	0	0	0	1	0	0	0	0
+GO:0004503	tyrosinase activity	0	0	0	0	1	0	0	0	0
+GO:1904315	transmitter-gated ion channel activity involved in regulation of postsynaptic membrane potential	0	0	0	0	1	0	0	0	0
+GO:0099529	neurotransmitter receptor activity involved in regulation of postsynaptic membrane potential	0	0	0	0	1	0	0	0	0
+GO:0045735	nutrient reservoir activity	0	0	0	0	1	0	0	0	0
+GO:0016744	transketolase or transaldolase activity	0	0	0	0	1	1	0	0	0
+GO:0004970	ionotropic glutamate receptor activity	0	0	0	0	1	0	0	0	0
+GO:0016628	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	0	0	0	0	1	0	0	0	0
+GO:0102131	obsolete 3-oxo-glutaryl-[acp] methyl ester reductase activity	0	0	0	0	1	0	0	0	0
+GO:0003823	antigen binding	0	0	0	0	1	0	0	0	0
+GO:0016297	acyl-[acyl-carrier-protein] hydrolase activity	0	0	0	0	1	0	0	0	0
+GO:0016296	palmitoyl-[acyl-carrier-protein] hydrolase activity	0	0	0	0	1	0	0	0	0
+GO:0016295	myristoyl-[acyl-carrier-protein] hydrolase activity	0	0	0	0	1	0	0	0	0
+GO:0016670	oxidoreductase activity, acting on a sulfur group of donors, oxygen as acceptor	0	0	0	0	1	0	0	0	0
+GO:0102132	obsolete 3-oxo-pimeloyl-[acp] methyl ester reductase activity	0	0	0	0	1	0	0	0	0
+GO:0008659	(3R)-hydroxymyristoyl-[acyl-carrier-protein] dehydratase activity	0	0	0	0	1	0	0	0	0
+GO:0048029	monosaccharide binding	0	0	0	0	1	0	0	0	0
+GO:0016679	oxidoreductase activity, acting on diphenols and related substances as donors	0	0	0	0	1	0	0	0	0
+GO:0047117	enoyl-[acyl-carrier-protein] reductase (NADPH, A-specific) activity	0	0	0	0	1	0	0	0	0
+GO:0047451	3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity	0	0	0	0	1	0	0	0	0
+GO:0008066	glutamate receptor activity	0	0	0	0	1	0	0	0	0
+GO:0004313	[acyl-carrier-protein] S-acetyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0004320	oleoyl-[acyl-carrier-protein] hydrolase activity	0	0	0	0	1	0	0	0	0
+GO:0004316	3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	0	0	0	0	1	0	0	0	0
+GO:0019171	3-hydroxyacyl-[acyl-carrier-protein] dehydratase activity	0	0	0	0	1	0	0	0	0
+GO:0008693	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	0	0	0	0	1	0	0	0	0
+GO:0004317	3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase activity	0	0	0	0	1	0	0	0	0
+GO:0098960	postsynaptic neurotransmitter receptor activity	0	0	0	0	1	0	0	0	0
+GO:0043177	organic acid binding	0	0	0	0	1	0	0	0	0
+GO:0016716	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen	0	0	0	0	1	0	0	0	0
+GO:0004683	calmodulin-dependent protein kinase activity	0	0	0	0	1	0	0	0	0
+GO:0030246	carbohydrate binding	0	0	0	0	1	1	0	0	0
+GO:0031406	carboxylic acid binding	0	0	0	0	1	0	0	0	0
+GO:1990450	linear polyubiquitin binding	0	0	0	0	1	0	0	0	0
+GO:0005315	inorganic phosphate transmembrane transporter activity	0	0	0	0	1	0	0	0	0
+GO:0031177	phosphopantetheine binding	0	0	0	0	1	0	0	0	0
+GO:0016420	malonyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0046873	metal ion transmembrane transporter activity	0	0	0	0	1	0	0	0	0
+GO:0022824	transmitter-gated ion channel activity	0	0	0	0	1	0	0	0	0
+GO:0004315	3-oxoacyl-[acyl-carrier-protein] synthase activity	0	0	0	0	1	0	0	0	0
+GO:0022835	transmitter-gated channel activity	0	0	0	0	1	0	0	0	0
+GO:0004312	fatty acid synthase activity	0	0	0	0	1	0	1	0	0
+GO:0003796	lysozyme activity	0	0	0	0	1	0	0	0	0
+GO:0016418	S-acetyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0016419	S-malonyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0004314	[acyl-carrier-protein] S-malonyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0003774	cytoskeletal motor activity	0	0	0	0	1	0	0	0	0
+GO:0016971	flavin-linked sulfhydryl oxidase activity	0	0	0	0	1	0	0	0	0
+GO:0004806	triglyceride lipase activity	0	0	0	0	1	1	0	1	0
+GO:0050661	NADP binding	0	0	0	0	1	1	0	0	0
+GO:0140677	molecular function activator activity	0	0	0	0	1	0	0	0	0
+GO:0016709	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	0	0	0	0	1	1	0	0	0
+GO:0001530	lipopolysaccharide binding	0	0	0	0	1	1	0	0	0
+GO:0032934	sterol binding	0	0	0	0	1	0	0	0	0
+GO:0102751	UDP-alpha-D-glucose:glucosyl-glycogenin alpha-D-glucosyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0008466	glycogenin glucosyltransferase activity	0	0	0	0	1	0	0	0	0
+GO:0004568	chitinase activity	0	0	0	0	1	0	0	0	0
+GO:0015114	phosphate ion transmembrane transporter activity	0	0	0	0	1	0	0	0	0
+GO:0008238	exopeptidase activity	0	0	0	0	1	0	0	1	0
+GO:0005230	extracellular ligand-gated ion channel activity	0	0	0	0	1	0	1	0	0
+GO:0005496	steroid binding	0	0	0	0	1	0	0	0	0
+GO:0036435	K48-linked polyubiquitin modification-dependent protein binding	0	0	0	0	1	0	0	0	0
+GO:0005272	sodium channel activity	0	0	0	0	1	0	0	0	0
+GO:0005009	insulin receptor activity	0	0	0	0	1	0	0	0	0
+GO:0030976	thiamine pyrophosphate binding	0	0	0	0	1	0	0	0	0
+GO:0008271	secondary active sulfate transmembrane transporter activity	0	0	0	0	1	0	0	0	0
+GO:0017022	myosin binding	0	0	0	0	1	0	0	0	0
+GO:0005200	structural constituent of cytoskeleton	0	0	0	0	1	0	0	0	0
+GO:0016899	oxidoreductase activity, acting on the CH-OH group of donors, oxygen as acceptor	0	0	0	0	1	1	0	0	0
+GO:0035639	purine ribonucleoside triphosphate binding	0	0	0	0	1	0	0	0	0
+GO:0004022	alcohol dehydrogenase (NAD+) activity	0	0	0	0	1	1	0	0	0
+GO:0052689	carboxylic ester hydrolase activity	0	0	0	0	1	1	0	1	0
+GO:0004368	glycerol-3-phosphate dehydrogenase (quinone) activity	0	0	0	0	1	0	0	0	0
+GO:0052591	sn-glycerol-3-phosphate:ubiquinone-8 oxidoreductase activity	0	0	0	0	1	0	0	0	0
+GO:0005515	protein binding	0	0	0	0	1	0	0	0	0
+GO:0052590	sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity	0	0	0	0	1	0	0	0	0
+GO:0016901	oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor	0	0	0	0	1	0	0	0	0
+GO:0005261	cation channel activity	0	0	0	0	1	0	0	0	0
+GO:0032555	purine ribonucleotide binding	0	0	0	0	1	0	0	0	0
+GO:0051082	unfolded protein binding	0	0	0	0	1	0	0	0	0
+GO:0017076	purine nucleotide binding	0	0	0	0	1	0	0	0	0
+GO:0032553	ribonucleotide binding	0	0	0	0	1	0	0	0	0
+GO:0015301	obsolete anion:anion antiporter activity	0	0	0	0	1	0	0	0	0
+GO:0030594	neurotransmitter receptor activity	0	0	0	0	1	0	0	0	0
+GO:0003844	1,4-alpha-glucan branching enzyme activity	0	0	0	0	1	1	0	0	0
+GO:0016860	intramolecular oxidoreductase activity	0	0	0	0	1	0	0	0	0
+GO:0102752	1,4-alpha-glucan branching enzyme activity (using a glucosylated glycogenin as primer for glycogen synthesis)	0	0	0	0	1	1	0	0	0
+GO:0018455	alcohol dehydrogenase [NAD(P)+] activity	0	0	0	0	1	1	0	0	0
+GO:0043559	insulin binding	0	0	0	0	1	0	0	0	0
+GO:0004332	fructose-bisphosphate aldolase activity	0	0	0	0	1	0	0	0	0
+GO:0043560	insulin receptor substrate binding	0	0	0	0	1	0	0	0	0
+GO:0004396	hexokinase activity	0	0	0	0	1	0	0	0	0
+GO:0004453	juvenile-hormone esterase activity	0	0	0	0	1	0	0	0	0
+GO:0044183	protein folding chaperone	0	0	0	0	1	0	0	0	0
+GO:0072341	modified amino acid binding	0	0	0	0	1	0	0	0	0
+GO:0008865	fructokinase activity	0	0	0	0	1	0	0	0	0
+GO:0016972	thiol oxidase activity	0	0	0	0	1	0	0	0	0
+GO:0004066	asparagine synthase (glutamine-hydrolyzing) activity	0	0	0	0	1	0	0	0	0
+GO:0016620	oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	0	0	0	0	0	1	0	0	0
+GO:0080030	methyl indole-3-acetate esterase activity	0	0	0	0	0	1	0	0	0
+GO:0043878	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity	0	0	0	0	0	1	0	0	0
+GO:0004029	aldehyde dehydrogenase (NAD+) activity	0	0	0	0	0	1	0	0	0
+GO:0004030	aldehyde dehydrogenase [NAD(P)+] activity	0	0	0	0	0	1	0	0	0
+GO:0004341	gluconolactonase activity	0	0	0	0	0	1	0	0	0
+GO:0004676	3-phosphoinositide-dependent protein kinase activity	0	0	0	0	0	1	0	0	0
+GO:0005549	odorant binding	0	0	0	0	0	1	0	0	0
+GO:0010349	L-galactose dehydrogenase activity	0	0	0	0	0	1	0	0	0
+GO:0045290	D-arabinose 1-dehydrogenase [NAD(P)+] activity	0	0	0	0	0	1	0	0	0
+GO:0047498	calcium-dependent phospholipase A2 activity	0	0	0	0	0	1	0	0	0
+GO:0005044	scavenger receptor activity	0	0	0	0	0	1	0	0	0
+GO:0004623	phospholipase A2 activity	0	0	0	0	0	1	0	0	0
+GO:0003939	L-iditol 2-dehydrogenase activity	0	0	0	0	0	1	0	0	0
+GO:0102391	decanoate-CoA ligase activity	0	0	0	0	0	1	0	1	0
+GO:0031956	medium-chain fatty acid-CoA ligase activity	0	0	0	0	0	1	0	1	0
+GO:0047045	testosterone 17-beta-dehydrogenase (NADP+) activity	0	0	0	0	0	1	0	0	0
+GO:0004222	metalloendopeptidase activity	0	0	0	0	0	1	0	1	0
+GO:0030247	polysaccharide binding	0	0	0	0	0	1	0	0	0
+GO:0038024	cargo receptor activity	0	0	0	0	0	1	0	0	0
+GO:0016788	hydrolase activity, acting on ester bonds	0	0	0	0	0	1	0	0	0
+GO:0016877	ligase activity, forming carbon-sulfur bonds	0	0	0	0	0	1	0	1	0
+GO:0004034	aldose 1-epimerase activity	0	0	0	0	0	1	0	0	0
+GO:0004801	transaldolase activity	0	0	0	0	0	1	0	0	0
+GO:0008483	transaminase activity	0	0	0	0	0	1	0	0	0
+GO:0004043	L-aminoadipate-semialdehyde dehydrogenase activity	0	0	0	0	0	1	0	0	0
+GO:0004467	long-chain fatty acid-CoA ligase activity	0	0	0	0	0	1	0	1	0
+GO:0050038	L-xylulose reductase (NADP+) activity	0	0	0	0	0	1	0	0	0
+GO:0044105	L-xylulose reductase (NAD+) activity	0	0	0	0	0	1	0	0	0
+GO:0046592	polyamine oxidase activity	0	0	0	0	0	1	0	0	0
+GO:0016647	oxidoreductase activity, acting on the CH-NH group of donors, oxygen as acceptor	0	0	0	0	0	1	0	0	0
+GO:0004047	aminomethyltransferase activity	0	0	0	0	0	1	0	0	0
+GO:0016769	transferase activity, transferring nitrogenous groups	0	0	0	0	0	1	0	0	0
+GO:0004167	dopachrome isomerase activity	0	0	0	0	0	1	0	0	0
+GO:0016857	racemase and epimerase activity, acting on carbohydrates and derivatives	0	0	0	0	0	1	0	0	0
+GO:0017057	6-phosphogluconolactonase activity	0	0	0	0	0	1	0	0	0
+GO:0016854	racemase and epimerase activity	0	0	0	0	0	1	0	0	0
+GO:0030295	protein kinase activator activity	0	0	0	0	0	1	0	0	0
+GO:0004620	phospholipase activity	0	0	0	0	0	1	0	1	0
+GO:0033293	monocarboxylic acid binding	0	0	0	0	0	1	0	0	0
+GO:0019209	kinase activator activity	0	0	0	0	0	1	0	0	0
+GO:0004616	phosphogluconate dehydrogenase (decarboxylating) activity	0	0	0	0	0	1	0	0	0
+GO:0106417	dopaminechrome tautomerase activity	0	0	0	0	0	1	0	0	0
+GO:0004802	transketolase activity	0	0	0	0	0	1	0	0	0
+GO:0004335	galactokinase activity	0	0	0	0	0	1	0	0	0
+GO:0004361	glutaryl-CoA dehydrogenase activity	0	0	0	0	0	1	0	0	0
+GO:0001872	(1->3)-beta-D-glucan binding	0	0	0	0	0	1	0	0	0
+GO:0097003	adipokinetic hormone receptor activity	0	0	0	0	0	1	0	0	0
+GO:0097004	adipokinetic hormone binding	0	0	0	0	0	1	0	0	0
+GO:0009013	succinate-semialdehyde dehydrogenase [NAD(P)+] activity	0	0	0	0	0	1	0	0	0
+GO:0102500	beta-maltose 4-alpha-glucanotransferase activity	0	0	0	0	0	1	0	0	0
+GO:0004135	amylo-alpha-1,6-glucosidase activity	0	0	0	0	0	1	0	0	0
+GO:0004777	succinate-semialdehyde dehydrogenase (NAD+) activity	0	0	0	0	0	1	0	0	0
+GO:0004557	alpha-galactosidase activity	0	0	0	0	0	1	0	0	0
+GO:0008260	3-oxoacid CoA-transferase activity	0	0	0	0	0	1	0	0	0
+GO:0008289	lipid binding	0	0	0	0	0	1	0	0	0
+GO:0051748	UTP-monosaccharide-1-phosphate uridylyltransferase activity	0	0	0	0	0	1	0	0	0
+GO:0003983	UTP:glucose-1-phosphate uridylyltransferase activity	0	0	0	0	0	1	0	0	0
+GO:0004586	ornithine decarboxylase activity	0	0	0	0	0	1	0	0	0
+GO:0008237	metallopeptidase activity	0	0	0	0	0	1	0	1	0
+GO:0010181	FMN binding	0	0	0	0	0	1	0	0	0
+GO:0034713	type I transforming growth factor beta receptor binding	0	0	0	0	0	1	0	0	0
+GO:0016882	cyclo-ligase activity	0	0	0	0	0	1	0	0	0
+GO:0004090	carbonyl reductase (NADPH) activity	0	0	0	0	0	1	0	0	0
+GO:0003987	acetate-CoA ligase activity	0	0	0	0	0	1	0	0	0
+GO:0031955	short-chain fatty acid-CoA ligase activity	0	0	0	0	0	1	0	0	0
+GO:0090433	palmitoyl-CoA ligase activity	0	0	0	0	0	1	0	0	0
+GO:0140164	Golgi transport complex binding	0	0	0	0	0	1	0	0	0
+GO:0004856	xylulokinase activity	0	0	0	0	0	1	0	0	0
+GO:0102420	sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity	0	0	0	0	0	1	0	0	0
+GO:0102338	3-oxo-lignoceronyl-CoA synthase activity	0	0	0	0	0	0	1	0	0
+GO:0102337	3-oxo-cerotoyl-CoA synthase activity	0	0	0	0	0	0	1	0	0
+GO:0102336	3-oxo-arachidoyl-CoA synthase activity	0	0	0	0	0	0	1	0	0
+GO:0009922	fatty acid elongase activity	0	0	0	0	0	0	1	0	0
+GO:0102756	very-long-chain 3-ketoacyl-CoA synthase activity	0	0	0	0	0	0	1	0	0
+GO:0004099	chitin deacetylase activity	0	0	0	0	0	0	1	0	0
+GO:0022857	transmembrane transporter activity	0	0	0	0	0	0	1	0	0
+GO:0005215	transporter activity	0	0	0	0	0	0	1	0	0
+GO:0080019	fatty-acyl-CoA reductase (alcohol-forming) activity	0	0	0	0	0	0	1	1	0
+GO:0102965	alcohol-forming fatty acyl-CoA reductase activity	0	0	0	0	0	0	1	1	0
+GO:0008010	structural constituent of chitin-based larval cuticle	0	0	0	0	0	0	1	0	0
+GO:0008061	chitin binding	0	0	0	0	0	0	1	0	0
+GO:0008235	metalloexopeptidase activity	0	0	0	0	0	0	0	1	0
+GO:0140096	catalytic activity, acting on a protein	0	0	0	0	0	0	0	1	0
+GO:0004181	metallocarboxypeptidase activity	0	0	0	0	0	0	0	1	0
+GO:0004180	carboxypeptidase activity	0	0	0	0	0	0	0	1	0
+GO:0004559	alpha-mannosidase activity	0	0	0	0	0	0	0	1	0
+GO:0032450	maltose alpha-glucosidase activity	0	0	0	0	0	0	0	1	0
+GO:0004558	alpha-1,4-glucosidase activity	0	0	0	0	0	0	0	1	0
+GO:0015923	mannosidase activity	0	0	0	0	0	0	0	1	0
+GO:0090599	alpha-glucosidase activity	0	0	0	0	0	0	0	1	0
+GO:0030527	structural constituent of chromatin	0	0	0	0	0	0	0	1	0
+GO:0015926	glucosidase activity	0	0	0	0	0	0	0	1	0
+GO:0061750	acid sphingomyelin phosphodiesterase activity	0	0	0	0	0	0	0	1	0
+GO:0005184	neuropeptide hormone activity	0	0	0	0	0	0	0	1	0
+GO:0004767	sphingomyelin phosphodiesterase activity	0	0	0	0	0	0	0	1	0
+GO:0070006	metalloaminopeptidase activity	0	0	0	0	0	0	0	1	0
+GO:0004177	aminopeptidase activity	0	0	0	0	0	0	0	1	0
+GO:0008270	zinc ion binding	0	0	0	0	0	0	0	1	0
+GO:0036042	long-chain fatty acyl-CoA binding	0	0	0	0	0	0	0	1	0
+GO:0046982	protein heterodimerization activity	0	0	0	0	0	0	0	1	0
+GO:0120013	lipid transfer activity	0	0	0	0	0	0	0	1	0
+GO:0033218	amide binding	0	0	0	0	0	0	0	1	0
+GO:0005179	hormone activity	0	0	0	0	0	0	0	1	0
+GO:0005402	carbohydrate:cation symporter activity	0	0	0	0	0	0	0	1	0
+GO:0046983	protein dimerization activity	0	0	0	0	0	0	0	1	0
+GO:0009881	photoreceptor activity	0	0	0	0	0	0	0	1	1
+GO:0016085	myoinhibitory hormone activity	0	0	0	0	0	0	0	1	0
+GO:0008970	phospholipase A1 activity	0	0	0	0	0	0	0	1	0
+GO:0000062	fatty-acyl-CoA binding	0	0	0	0	0	0	0	1	0
+GO:1901567	fatty acid derivative binding	0	0	0	0	0	0	0	1	0
+GO:0120227	acyl-CoA binding	0	0	0	0	0	0	0	1	0
+GO:0008020	G protein-coupled photoreceptor activity	0	0	0	0	0	0	0	0	1
+GO:0030983	mismatched DNA binding	0	0	0	0	0	0	0	0	1
+GO:0004930	G protein-coupled receptor activity	0	0	0	0	0	0	0	0	1
+GO:0005245	voltage-gated calcium channel activity	0	0	0	0	0	0	0	0	1

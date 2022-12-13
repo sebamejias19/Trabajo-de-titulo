@@ -1,0 +1,15 @@
+{
+	"file": "...",
+	"name": "GO_MF terms enriched in complete DEG sets",
+	"header": 0,
+	"separator": "\t",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "term_id" },
+		{ "type": "string", "index": 1, "name": "term_name" }
+		
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 10 }
+	]
+}

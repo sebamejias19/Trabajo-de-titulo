@@ -1,0 +1,137 @@
+term_id	term_name	Dm_F_wh_L	Dm_F_ov	Dp_F_ab	Dp_F_hd	Dp_M_ab	Dp_M_hd	Dm_F_wh_D	Dm_M_ts	Af_F_wh
+GO:0000795	synaptonemal complex	1	0	1	0	0	0	0	0	0
+GO:0099086	synaptonemal structure	1	0	1	0	0	0	0	0	0
+GO:0043292	contractile fiber	0	0	1	0	1	0	1	0	0
+GO:0030016	myofibril	0	0	1	0	1	0	1	0	0
+GO:0030017	sarcomere	0	0	1	0	1	0	1	0	0
+GO:0099081	supramolecular polymer	0	0	1	0	1	0	1	0	0
+GO:0099512	supramolecular fiber	0	0	1	0	1	0	1	0	0
+GO:0015629	actin cytoskeleton	0	0	1	0	1	0	1	0	0
+GO:0031674	I band	0	0	1	0	1	0	1	0	0
+GO:0030018	Z disc	0	0	1	0	1	0	1	0	0
+GO:0099080	supramolecular complex	0	0	1	0	1	0	1	0	0
+GO:0036379	myofilament	0	0	1	0	1	0	1	0	0
+GO:0062023	collagen-containing extracellular matrix	0	0	1	0	0	0	0	0	0
+GO:0005863	striated muscle myosin thick filament	0	0	1	0	1	0	0	0	0
+GO:0031672	A band	0	0	1	0	1	0	1	0	0
+GO:0032982	myosin filament	0	0	1	0	1	0	0	0	0
+GO:0031941	filamentous actin	0	0	1	0	1	0	1	0	0
+GO:0031012	extracellular matrix	0	0	1	0	0	0	1	0	0
+GO:0001725	stress fiber	0	0	1	0	1	0	1	0	0
+GO:0042641	actomyosin	0	0	1	0	1	0	1	0	0
+GO:0097517	contractile actin filament bundle	0	0	1	0	1	0	1	0	0
+GO:0030312	external encapsulating structure	0	0	1	0	0	0	1	1	0
+GO:0005604	basement membrane	0	0	1	0	0	0	0	0	0
+GO:0032432	actin filament bundle	0	0	1	0	1	0	1	0	0
+GO:0005884	actin filament	0	0	1	0	1	0	0	0	0
+GO:0005576	extracellular region	0	0	1	1	1	1	1	1	0
+GO:0005856	cytoskeleton	0	0	1	0	1	0	0	0	0
+GO:0005615	extracellular space	0	0	1	1	1	1	1	1	0
+GO:0005865	striated muscle thin filament	0	0	1	0	1	0	0	0	0
+GO:0016459	myosin complex	0	0	1	0	1	0	0	0	0
+GO:0005912	adherens junction	0	0	1	0	1	0	0	0	0
+GO:0005861	troponin complex	0	0	1	0	1	0	0	0	0
+GO:0030055	cell-substrate junction	0	0	1	0	1	0	0	0	0
+GO:0070161	anchoring junction	0	0	1	0	1	0	0	0	0
+GO:0042383	sarcolemma	0	0	1	0	0	0	0	0	0
+GO:0071944	cell periphery	0	0	1	1	0	0	1	0	0
+GO:0030054	cell junction	0	0	1	0	1	0	0	0	0
+GO:0043679	axon terminus	0	0	1	0	0	0	0	0	0
+GO:0044306	neuron projection terminus	0	0	1	0	0	0	0	0	0
+GO:0031430	M band	0	0	1	0	1	0	0	0	0
+GO:0005911	cell-cell junction	0	0	1	0	1	0	0	0	0
+GO:0005925	focal adhesion	0	0	1	0	1	0	0	0	0
+GO:0005587	collagen type IV trimer	0	0	1	0	0	0	0	0	0
+GO:0098644	complex of collagen trimers	0	0	1	0	0	0	0	0	0
+GO:0098642	network-forming collagen trimer	0	0	1	0	0	0	0	0	0
+GO:0098651	basement membrane collagen trimer	0	0	1	0	0	0	0	0	0
+GO:0098645	collagen network	0	0	1	0	0	0	0	0	0
+GO:0043228	non-membrane-bounded organelle	0	0	1	0	1	0	0	0	0
+GO:0043232	intracellular non-membrane-bounded organelle	0	0	1	0	1	0	0	0	0
+GO:0005657	replication fork	0	0	1	0	0	0	0	0	0
+GO:0016460	myosin II complex	0	0	1	0	1	0	0	0	0
+GO:0005927	muscle tendon junction	0	0	1	0	1	0	0	0	0
+GO:0099513	polymeric cytoskeletal fiber	0	0	1	0	1	0	0	0	0
+GO:0043596	nuclear replication fork	0	0	1	0	0	0	0	0	0
+GO:0150034	distal axon	0	0	1	0	0	0	0	0	0
+GO:0097575	lateral cell cortex	0	0	1	0	1	0	0	0	0
+GO:0030424	axon	0	0	1	0	0	0	0	0	0
+GO:0071797	LUBAC complex	0	0	1	0	1	0	0	0	0
+GO:0016324	apical plasma membrane	0	0	1	0	0	0	0	0	0
+GO:0098590	plasma membrane region	0	0	1	0	0	0	0	0	0
+GO:0005581	collagen trimer	0	0	1	0	0	0	0	0	0
+GO:0097574	lateral part of cell	0	0	1	0	1	0	0	0	0
+GO:0000228	nuclear chromosome	0	0	1	0	0	0	0	0	0
+GO:0097060	synaptic membrane	0	0	1	0	0	0	0	0	0
+GO:0045177	apical part of cell	0	0	1	0	0	0	0	0	0
+GO:0005859	muscle myosin complex	0	0	1	0	1	0	0	0	0
+GO:0016529	sarcoplasmic reticulum	0	0	1	0	1	0	0	0	0
+GO:0009925	basal plasma membrane	0	0	1	0	0	0	0	0	0
+GO:0002081	outer acrosomal membrane	0	0	1	0	0	0	0	0	0
+GO:0005886	plasma membrane	0	0	1	0	0	0	0	0	0
+GO:0005938	cell cortex	0	0	1	0	0	0	0	0	0
+GO:0097467	type III terminal bouton	0	0	1	0	0	0	0	0	0
+GO:0022626	cytosolic ribosome	0	0	0	1	0	0	0	0	0
+GO:0044391	ribosomal subunit	0	0	0	1	0	0	0	0	0
+GO:0005840	ribosome	0	0	0	1	0	0	0	0	0
+GO:0022625	cytosolic large ribosomal subunit	0	0	0	1	0	0	0	0	0
+GO:0022627	cytosolic small ribosomal subunit	0	0	0	1	0	0	0	0	0
+GO:0005829	cytosol	0	0	0	1	0	1	0	0	0
+GO:0016028	rhabdomere	0	0	0	1	0	0	0	0	0
+GO:0015934	large ribosomal subunit	0	0	0	1	0	0	0	0	0
+GO:0015935	small ribosomal subunit	0	0	0	1	0	0	0	0	0
+GO:1990904	ribonucleoprotein complex	0	0	0	1	0	0	0	0	0
+GO:0035996	rhabdomere microvillus	0	0	0	1	0	0	0	0	0
+GO:0005737	cytoplasm	0	0	0	1	1	0	0	0	0
+GO:0005739	mitochondrion	0	0	0	1	0	0	0	0	0
+GO:0005902	microvillus	0	0	0	1	0	0	0	0	0
+GO:0120025	plasma membrane bounded cell projection	0	0	0	1	0	0	0	0	0
+GO:0042995	cell projection	0	0	0	1	0	0	0	0	0
+GO:0098858	actin-based cell projection	0	0	0	1	0	0	0	0	0
+GO:0033583	rhabdomere membrane	0	0	0	1	0	0	0	0	0
+GO:0016027	inaD signaling complex	0	0	0	1	0	0	0	0	0
+GO:0045251	electron transfer flavoprotein complex	0	0	0	1	0	0	0	0	0
+GO:0017133	mitochondrial electron transfer flavoprotein complex	0	0	0	1	0	0	0	0	0
+GO:0005777	peroxisome	0	0	0	1	0	1	0	0	0
+GO:0042579	microbody	0	0	0	1	0	1	0	0	0
+GO:0005853	eukaryotic translation elongation factor 1 complex	0	0	0	1	1	0	0	0	0
+GO:0042385	myosin III complex	0	0	0	1	0	0	0	0	0
+GO:0019897	extrinsic component of plasma membrane	0	0	0	1	0	0	0	0	0
+GO:0009986	cell surface	0	0	0	1	0	0	0	0	0
+GO:0031233	intrinsic component of external side of plasma membrane	0	0	0	1	0	0	0	0	0
+GO:0031226	intrinsic component of plasma membrane	0	0	0	1	0	0	0	0	0
+GO:0098839	postsynaptic density membrane	0	0	0	1	0	0	0	0	0
+GO:0005759	mitochondrial matrix	0	0	0	1	0	0	0	0	0
+GO:0016020	membrane	0	0	0	1	0	0	0	0	0
+GO:0099634	postsynaptic specialization membrane	0	0	0	1	0	0	0	0	0
+GO:0035997	rhabdomere microvillus membrane	0	0	0	1	0	0	0	0	0
+GO:0005783	endoplasmic reticulum	0	0	0	0	1	0	0	0	0
+GO:0042175	nuclear outer membrane-endoplasmic reticulum membrane network	0	0	0	0	1	0	0	0	0
+GO:0016528	sarcoplasm	0	0	0	0	1	0	0	0	0
+GO:0005789	endoplasmic reticulum membrane	0	0	0	0	1	0	0	0	0
+GO:0098827	endoplasmic reticulum subcompartment	0	0	0	0	1	0	0	0	0
+GO:1990204	oxidoreductase complex	0	0	0	0	1	0	0	0	0
+GO:0031984	organelle subcompartment	0	0	0	0	1	0	0	0	0
+GO:0030062	mitochondrial tricarboxylic acid cycle enzyme complex	0	0	0	0	1	0	0	0	0
+GO:0005915	zonula adherens	0	0	0	0	1	0	0	0	0
+GO:0005787	signal peptidase complex	0	0	0	0	1	0	0	0	0
+GO:0030314	junctional membrane complex	0	0	0	0	1	0	0	0	0
+GO:0005962	mitochondrial isocitrate dehydrogenase complex (NAD+)	0	0	0	0	1	0	0	0	0
+GO:0045242	isocitrate dehydrogenase complex (NAD+)	0	0	0	0	1	0	0	0	0
+GO:0045239	tricarboxylic acid cycle enzyme complex	0	0	0	0	1	0	0	0	0
+GO:0005899	insulin receptor complex	0	0	0	0	1	0	0	0	0
+GO:0030056	hemidesmosome	0	0	0	0	1	0	0	0	0
+GO:0031045	dense core granule	0	0	0	0	1	0	0	0	0
+GO:0030315	T-tubule	0	0	0	0	1	0	0	0	0
+GO:0005960	glycine cleavage complex	0	0	0	0	0	1	0	0	0
+GO:0005811	lipid droplet	0	0	0	0	0	1	0	0	0
+GO:0062129	chitin-based extracellular matrix	0	0	0	0	0	0	1	0	0
+GO:0031224	intrinsic component of membrane	0	0	0	0	0	0	1	0	0
+GO:0016021	integral component of membrane	0	0	0	0	0	0	1	0	0
+GO:0031225	anchored component of membrane	0	0	0	0	0	0	1	0	0
+GO:0042600	egg chorion	0	0	0	0	0	0	0	1	0
+GO:0060388	vitelline envelope	0	0	0	0	0	0	0	1	0
+GO:0035805	egg coat	0	0	0	0	0	0	0	1	0
+GO:0000786	nucleosome	0	0	0	0	0	0	0	1	0
+GO:0044815	DNA packaging complex	0	0	0	0	0	0	0	1	0
+GO:0032993	protein-DNA complex	0	0	0	0	0	0	0	1	0
