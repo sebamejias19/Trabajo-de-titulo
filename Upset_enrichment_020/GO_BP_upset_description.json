@@ -1,5 +1,5 @@
 {
-	"file": "...",
+	"file": "https://raw.githubusercontent.com/sebamejias19/Trabajo-de-titulo/main/Upset_enrichment_020/GO_BP_upset_binary.txt",
 	"name": "GO_BP terms enriched in DEG sets",
 	"header": 0,
 	"separator": "\t",
